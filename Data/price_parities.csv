@@ -1,0 +1,385 @@
+City,State,PriceParity
+San Francisco,CA,119.83
+San Diego,CA,115.15
+Urban Honolulu,HI,114.74
+New York,NY,114.58
+Seattle,WA,114.57
+Los Angeles,CA,113.82
+Napa,CA,112.07
+Kahului,HI,112.04
+Santa Maria,CA,111.81
+San Jose,CA,111.64
+Oxnard,CA,111.40
+Washington,DC,111.34
+Poughkeepsie,NY,110.09
+Miami,FL,109.92
+Santa Rosa,CA,109.81
+Boston,MA,109.69
+Vallejo,CA,109.38
+Salinas,CA,109.27
+Denver,CO,109.16
+Santa Cruz,CA,109.08
+San Luis Obispo,CA,108.56
+Sacramento,CA,106.29
+Anchorage,AK,106.27
+Bridgeport,CT,105.80
+Riverside,CA,105.53
+Chicago,IL,105.42
+Portland,OR,105.37
+Baltimore,MD,105.01
+Bellingham,WA,104.72
+Stockton,CA,104.61
+Fairbanks,AK,103.94
+Dallas,TX,103.85
+Bremerton,WA,103.69
+Olympia,WA,103.59
+Minneapolis,MN,103.58
+Wenatchee,WA,103.11
+Modesto,CA,102.98
+Bend,OR,102.75
+Burlington,VT,102.64
+Chico,CA,102.52
+Ithaca,NY,102.35
+Naples,FL,102.19
+Manchester,NH,102.16
+Medford,OR,102.12
+Trenton,NJ,101.89
+Salem,OR,101.84
+Albany,OR,101.80
+Corvallis,OR,101.80
+Portland,ME,101.74
+Hartford,CT,101.71
+Fresno,CA,101.56
+Yuba City,CA,101.54
+Boulder,CO,101.32
+New Haven,CT,101.25
+Providence,RI,101.20
+Barnstable Town,MA,101.14
+Bakersfield,CA,100.94
+Eugene,OR,100.61
+Kennewick,WA,100.51
+Mount Vernon,WA,100.39
+Merced,CA,100.30
+Charlottesville,VA,100.28
+Madera,CA,100.09
+Kingston,NY,100.09
+Austin,TX,100.04
+Norwich,CT,100.03
+Worcester,MA,100.00
+Cape Coral,FL,99.97
+Orlando,FL,99.82
+Ann Arbor,MI,99.75
+Houston,TX,99.74
+Redding,CA,99.40
+North Port,FL,99.31
+Philadelphia,PA,99.21
+Phoenix,AZ,99.18
+Walla Walla,WA,99.17
+Albany,NY,99.16
+Charleston,SC,99.15
+Atlanta,GA,99.12
+Hilton Head Island,SC,99.08
+Visalia,CA,98.98
+Tampa,FL,98.97
+Palm Bay,FL,98.96
+Longview,WA,98.79
+Jacksonville,FL,98.73
+Spokane,WA,98.71
+Grants Pass,OR,98.64
+Hanford,CA,98.58
+Port St. Lucie,FL,98.54
+Allentown,PA,98.31
+Sebastian,FL,98.16
+Fort Collins,CO,97.98
+Richmond,VA,97.92
+Midland,TX,97.86
+East Stroudsburg,PA,97.86
+Deltona,FL,97.84
+Springfield,MA,97.79
+Virginia Beach,VA,97.79
+Yakima,WA,97.72
+Rochester,NY,97.69
+Raleigh,NC,97.58
+Wilmington,NC,97.57
+Harrisburg,PA,97.53
+Reno,NV,97.42
+Winchester,VA,97.26
+Atlantic City,NJ,97.17
+Lancaster,PA,97.13
+Crestview,FL,96.90
+York,PA,96.85
+Vineland,NJ,96.84
+Colorado Springs,CO,96.84
+Panama City,FL,96.82
+Madison,WI,96.73
+Bangor,ME,96.69
+Grand Rapids,MI,96.69
+Charlotte,NC,96.60
+Odessa,TX,96.52
+Syracuse,NY,96.49
+California,MD,96.45
+San Antonio,TX,96.38
+Reading,PA,96.32
+Punta Gorda,FL,96.30
+St. Louis,MO,96.25
+Salt Lake City,UT,96.23
+Lakeland,FL,96.17
+Detroit,MI,96.11
+The Villages,FL,96.07
+Lebanon,PA,96.06
+Durham,NC,95.99
+Pittsfield,MA,95.94
+Gainesville,FL,95.91
+Dover,DE,95.90
+Provo,UT,95.84
+Pensacola,FL,95.82
+State College,PA,95.76
+El Centro,CA,95.70
+Glens Falls,NY,95.66
+Gettysburg,PA,95.63
+Milwaukee,WI,95.61
+Flagstaff,AZ,95.55
+Morgantown,WV,95.55
+Greeley,CO,95.55
+Las Vegas,NV,95.54
+Nashville,TN,95.53
+Savannah,GA,95.42
+Hagerstown,MD,95.25
+Chambersburg,PA,95.18
+Pittsburgh,PA,95.15
+College Station,TX,95.12
+Buffalo,NY,95.11
+Indianapolis,IN,95.03
+Columbus,OH,95.02
+Tallahassee,FL,94.97
+Elmira,NY,94.93
+La Crosse,WI,94.91
+Corpus Christi,TX,94.81
+Myrtle Beach,SC,94.79
+Tyler,TX,94.77
+Missoula,MT,94.72
+Asheville,NC,94.70
+Waco,TX,94.69
+Binghamton,NY,94.62
+Ocean City,NJ,94.53
+New Orleans,LA,94.42
+Athens,GA,94.41
+Cincinnati,OH,94.34
+Bismarck,ND,94.24
+Cleveland,OH,94.20
+St. George,UT,94.16
+Carson City,NV,94.16
+Bloomington,IN,94.12
+Lansing,MI,94.08
+Harrisonburg,VA,94.07
+Gainesville,GA,94.04
+Prescott Valley,AZ,94.01
+Lewiston,ME,93.99
+Watertown,NY,93.96
+Salisbury,MD,93.96
+Ocala,FL,93.96
+Lubbock,TX,93.95
+Boise City,ID,93.85
+Homosassa Springs,FL,93.82
+Jackson,MI,93.80
+Amarillo,TX,93.79
+Roanoke,VA,93.79
+Coeur d'Alene,ID,93.77
+Akron,OH,93.73
+Kansas City,MO,93.66
+Ogden,UT,93.64
+Omaha,NE,93.64
+Hinesville,GA,93.58
+Killeen,TX,93.56
+Champaign,IL,93.52
+Greenville,SC,93.51
+Appleton,WI,93.46
+Rockford,IL,93.42
+Santa Fe,NM,93.39
+Scranton,PA,93.37
+Des Moines,IA,93.32
+Columbia,SC,93.32
+Beaumont,TX,93.31
+Fayetteville,AR,93.30
+Sheboygan,WI,93.30
+Kalamazoo,MI,93.23
+Baton Rouge,LA,93.19
+Sherman,TX,93.16
+El Paso,TX,93.13
+Bloomington,IL,93.08
+Janesville,WI,93.06
+Lincoln,NE,93.05
+Sioux Falls,SD,93.04
+Tucson,AZ,92.92
+Staunton,VA,92.90
+Cheyenne,WY,92.85
+Greensboro,NC,92.82
+Iowa City,IA,92.82
+Utica,NY,92.77
+Oklahoma City,OK,92.76
+Longview,TX,92.74
+Lawrence,KS,92.69
+Spartanburg,SC,92.67
+Fargo,ND,92.58
+Oshkosh,WI,92.56
+Dayton,OH,92.54
+Lafayette,IN,92.53
+Billings,MT,92.50
+Grand Junction,CO,92.47
+Green Bay,WI,92.36
+Albuquerque,NM,92.26
+Fond du Lac,WI,92.22
+Monroe,MI,92.21
+Kankakee,IL,92.21
+Blacksburg,VA,92.19
+Erie,PA,92.19
+Racine,WI,92.18
+Fort Wayne,IN,92.14
+Niles,MI,92.13
+Muskegon,MI,92.11
+Victoria,TX,92.09
+Daphne,AL,92.09
+San Angelo,TX,92.06
+Abilene,TX,92.03
+Tulsa,OK,92.02
+Logan,UT,92.02
+Lexington,KY,92.00
+Columbus,IN,91.99
+Warner Robins,GA,91.99
+Little Rock,AR,91.97
+Augusta,GA,91.96
+Rochester,MN,91.94
+Eau Claire,WI,91.92
+Rapid City,SD,91.87
+South Bend,IN,91.87
+Springfield,IL,91.86
+Cedar Rapids,IA,91.84
+Louisville/Jefferson County,KY,91.81
+Williamsport,PA,91.77
+Winston,NC,91.72
+Fayetteville,NC,91.68
+Bay City,MI,91.66
+Midland,MI,91.66
+Huntsville,AL,91.51
+Davenport,IA,91.36
+Casper,WY,91.34
+Lynchburg,VA,91.27
+Ames,IA,91.26
+New Bern,NC,91.24
+Cumberland,MD,91.24
+Wichita Falls,TX,91.13
+Saginaw,MI,91.13
+Michigan City,IN,90.94
+Rome,GA,90.92
+Pueblo,CO,90.92
+Birmingham,AL,90.86
+Wichita,KS,90.85
+Kokomo,IN,90.81
+Dalton,GA,90.76
+Lafayette,LA,90.73
+Charleston,WV,90.69
+Florence,SC,90.62
+Idaho Falls,ID,90.62
+Memphis,TN,90.62
+Manhattan,KS,90.59
+Battle Creek,MI,90.59
+Clarksville,TN,90.56
+Toledo,OH,90.52
+Peoria,IL,90.49
+Knoxville,TN,90.37
+Shreveport,LA,90.32
+Evansville,IN,90.29
+Lake Charles,LA,90.24
+Chattanooga,TN,90.23
+Brunswick,GA,90.14
+Goldsboro,NC,90.13
+Grand Forks,ND,90.09
+Twin Falls,ID 2/,90.02
+Sebring,FL,90.02
+Canton,OH,90.02
+Sioux City,IA,90.00
+Wausau,WI,89.97
+Laredo,TX,89.94
+Bloomsburg,PA,89.78
+Decatur,IL,89.77
+Jacksonville,NC,89.70
+Auburn,AL,89.69
+Greenville,NC,89.62
+Lake Havasu City,AZ,89.59
+Altoona,PA,89.57
+Burlington,NC,89.56
+Yuma,AZ,89.54
+Columbia,MO,89.52
+Parkersburg,WV,89.47
+Farmington,NM,89.46
+Albany,GA,89.38
+Wheeling,WV,89.27
+Hickory,NC,89.25
+Topeka,KS,89.22
+Gulfport,MS,89.21
+Hot Springs,AR,89.21
+Weirton,WV,89.20
+Flint,MI,89.16
+Muncie,IN,89.13
+Springfield,MO,89.11
+Alexandria,LA,89.10
+Lima,OH,89.05
+Beckley,WV,89.02
+Columbus,GA,88.99
+Jackson,MS,88.98
+Grand Island,NE,88.90
+Waterloo,IA,88.89
+St. Joseph,MO,88.86
+Duluth,MN,88.83
+Pocatello,ID,88.83
+Hattiesburg,MS,88.61
+Mansfield,OH,88.59
+Montgomery,AL,88.56
+Cape Girardeau,MO,88.56
+Huntington,WV,88.54
+Hammond,LA,88.47
+Bowling Green,KY,88.44
+Texarkana,TX,88.39
+Brownsville,TX,88.36
+Danville,IL,88.35
+Mankato,MN,88.29
+Valdosta,GA,88.28
+Jefferson City,MO,88.20
+Houma,LA,88.13
+Sierra Vista,AZ,88.13
+Tuscaloosa,AL,88.10
+Fort Smith,AR,88.05
+Cleveland,TN,88.02
+Joplin,MO,88.00
+Dubuque,IA,87.93
+Pine Bluff,AR,87.88
+Elkhart,IN,87.87
+Rocky Mount,NC,87.83
+Mobile,AL,87.80
+McAllen,TX,87.76
+Enid,OK 2/,87.49
+Lawton,OK,87.48
+St. Cloud,MN,87.48
+Elizabethtown,KY,87.43
+Youngstown,OH,87.41
+Macon,GA,87.40
+Terre Haute,IN,87.39
+Owensboro,KY,87.38
+Jonesboro,AR,87.30
+Johnson City,TN,87.25
+Great Falls,MT,87.18
+Lewiston,ID,87.16
+Springfield,OH,87.15
+Carbondale,IL,86.79
+Johnstown,PA,86.60
+Sumter,SC,86.59
+Monroe,LA,86.41
+Decatur,AL,86.25
+Dothan,AL,86.20
+Las Cruces,NM,86.14
+Kingsport,TN,85.88
+Florence,AL,85.51
+Jackson,TN,85.48
+Morristown,TN,84.60
+Gadsden,AL,84.56
+Anniston,AL,83.84

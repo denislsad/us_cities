@@ -1,0 +1,399 @@
+City,State,TransitScore
+New York,NY,6.9
+San Francisco,CA,6.8
+Salt Lake City,UT,6.6
+Urban Honolulu,HI,6.4
+San Jose,CA,6.4
+Los Angeles,CA,6.2
+Portland,OR,6.1
+Washington,DC,5.5
+Denver,CO,5.3
+San Diego,CA,5.3
+Philadelphia,PA,5.3
+Miami,FL,5.2
+Seattle,WA,5.1
+Boulder,CO,5.1
+Chicago,IL,5.1
+Boston,MA,5
+Santa Cruz,CA,4.8
+Ann Arbor,MI,4.8
+Las Vegas,NV,4.8
+Cleveland,OH,4.7
+Champaign,IL,4.7
+Ogden,UT,4.7
+New Haven,CT,4.6
+Milwaukee,WI,4.6
+Trenton,NJ,4.6
+San Antonio,TX,4.5
+Bridgeport,CT,4.5
+Lawrence,KS,4.3
+Santa Maria,CA,4.3
+Eugene,OR,4.2
+Salem,OR,4.2
+Baltimore,MD,4.2
+Ames,IA,4.2
+Salinas,CA,4.2
+El Paso,TX,4.1
+Visalia,CA,4.1
+Laredo,TX,4.1
+Phoenix,AZ,4.1
+Sacramento,CA,4
+Gainesville,FL,4
+Springfield,MA,4
+Hartford,CT,3.9
+Vallejo,CA,3.9
+Kennewick,WA,3.9
+Buffalo,NY,3.9
+Atlantic City,NJ,3.8
+Riverside,CA,3.8
+St. Louis,MO,3.8
+Spokane,WA,3.8
+Tucson,AZ,3.7
+Minneapolis,MN,3.7
+Lafayette,IN,3.6
+Albuquerque,NM,3.6
+Albany,NY,3.6
+Provo,UT,3.6
+Modesto,CA,3.6
+Missoula,MT,3.5
+Providence,RI,3.5
+State College,PA,3.5
+Bellingham,WA,3.5
+Corpus Christi,TX,3.4
+New Orleans,LA,3.4
+Bloomington,IL,3.4
+Oxnard,CA,3.4
+Santa Rosa,CA,3.4
+Tampa,FL,3.3
+Pittsburgh,PA,3.3
+Napa,CA,3.3
+Ithaca,NY,3.3
+Santa Fe,NM,3.3
+Orlando,FL,3.3
+Virginia Beach,VA,3.2
+Fresno,CA,3.2
+Lincoln,NE,3.2
+Durham,NC,3.2
+Reno,NV,3.2
+Wenatchee,WA,3.2
+Fargo,ND,3.2
+Bakersfield,CA,3.1
+Dubuque,IA,3.1
+Dayton,OH,3.1
+North Port,FL,3
+Madison,WI,3
+Akron,OH,3
+Muncie,IN,3
+Olympia,WA,3
+Davenport,IA,3
+Stockton,CA,3
+Corvallis,OR,3
+Iowa City,IA,3
+Fort Collins,CO,3
+Hanford,CA,3
+Louisville/Jefferson County,KY,2.9
+Chico,CA,2.9
+Columbus,OH,2.9
+Erie,PA,2.9
+Decatur,IL,2.9
+Anchorage,AK,2.9
+Lansing,MI,2.9
+Racine,WI,2.9
+Allentown,PA,2.8
+Austin,TX,2.8
+Walla Walla,WA,2.8
+Detroit,MI,2.8
+Bay City,MI,2.8
+Morgantown,WV,2.8
+Mount Vernon,WA,2.8
+Houston,TX,2.8
+Dallas,TX,2.8
+Oshkosh,WI,2.7
+Omaha,NE,2.7
+Carson City,NV,2.7
+Pocatello,ID,2.7
+Springfield,IL,2.7
+Bremerton,WA,2.7
+Burlington,VT,2.6
+Medford,OR,2.6
+Bloomington,IN,2.6
+Jacksonville,FL,2.6
+Des Moines,IA,2.6
+San Luis Obispo,CA,2.6
+Scranton,PA,2.6
+Grand Rapids,MI,2.6
+Tallahassee,FL,2.6
+Lexington,KY,2.5
+Yuba City,CA,2.5
+Grand Forks,ND,2.5
+Lubbock,TX,2.5
+Savannah,GA,2.5
+South Bend,IN,2.5
+Kankakee,IL,2.5
+Cincinnati,OH,2.5
+Columbia,MO,2.5
+Rochester,NY,2.5
+Charlottesville,VA,2.5
+Atlanta,GA,2.5
+Syracuse,NY,2.5
+Merced,CA,2.4
+Reading,PA,2.4
+Billings,MT,2.4
+Deltona,FL,2.4
+Indianapolis,IN,2.4
+Lancaster,PA,2.4
+Binghamton,NY,2.4
+Canton,OH,2.4
+Richmond,VA,2.4
+Sheboygan,WI,2.3
+Yakima,WA,2.3
+Raleigh,NC,2.3
+Vineland,NJ,2.3
+Cape Coral,FL,2.3
+La Crosse,WI,2.3
+Athens,GA,2.3
+Colorado Springs,CO,2.3
+Grand Junction,CO,2.3
+Kansas City,MO,2.3
+Memphis,TN,2.3
+St. Joseph,MO,2.3
+Toledo,OH,2.2
+Bismarck,ND,2.2
+Pueblo,CO,2.2
+Logan,UT,2.2
+Charlotte,NC,2.2
+St. Cloud,MN,2.2
+Duluth,MN,2.1
+Kahului,HI,2.1
+Worcester,MA,2.1
+Victoria,TX,2.1
+Green Bay,WI,2.1
+Rockford,IL,2.1
+Flagstaff,AZ,2.1
+Kalamazoo,MI,2.1
+Parkersburg,WV,2.1
+Ocean City,NJ,2.1
+Janesville,WI,2.1
+Harrisonburg,VA,2.1
+Midland,TX,2.1
+Yuma,AZ,2
+Dover,DE,2
+Cedar Rapids,IA,2
+Roanoke,VA,2
+Bend,OR,2
+Blacksburg,VA,2
+Sioux City,IA,2
+Longview,WA,2
+Johnstown,PA,2
+Brownsville,TX,2
+Cheyenne,WY,2
+Utica,NY,2
+Fairbanks,AK,2
+Sioux Falls,SD,2
+Palm Bay,FL,1.9
+Topeka,KS,1.9
+Flint,MI,1.9
+Naples,FL,1.9
+Odessa,TX,1.9
+Evansville,IN,1.9
+Owensboro,KY,1.9
+Greensboro,NC,1.8
+Elkhart,IN,1.8
+Boise City,ID,1.8
+Fayetteville,NC,1.8
+Saginaw,MI,1.8
+Shreveport,LA,1.8
+Norwich,CT,1.8
+Fort Wayne,IN,1.8
+Appleton,WI,1.8
+Las Cruces,NM,1.8
+Casper,WY,1.8
+Amarillo,TX,1.8
+Redding,CA,1.8
+Baton Rouge,LA,1.8
+Eau Claire,WI,1.7
+Wilmington,NC,1.7
+Columbia,SC,1.7
+Manchester,NH,1.7
+Tulsa,OK,1.7
+Portland,ME,1.7
+Wichita,KS,1.7
+Peoria,IL,1.7
+Springfield,MO,1.7
+Waco,TX,1.7
+Nashville,TN,1.7
+Mobile,AL,1.7
+Harrisburg,PA,1.7
+Oklahoma City,OK,1.7
+Wichita Falls,TX,1.7
+Killeen,TX,1.6
+Battle Creek,MI,1.6
+Pittsfield,MA,1.6
+Pensacola,FL,1.6
+Abilene,TX,1.6
+Lakeland,FL,1.6
+Wausau,WI,1.6
+Columbus,GA,1.6
+California,MD,1.6
+San Angelo,TX,1.5
+Charleston,SC,1.5
+Macon,GA,1.5
+Panama City,FL,1.5
+Lebanon,PA,1.5
+Williamsport,PA,1.5
+York,PA,1.5
+Cumberland,MD,1.4
+College Station,TX,1.4
+Waterloo,IA,1.4
+Fayetteville,AR,1.4
+Albany,OR,1.4
+Beaumont,TX,1.4
+Jackson,TN,1.4
+Greeley,CO,1.4
+Fond du Lac,WI,1.4
+Grants Pass,OR,1.4
+Muskegon,MI,1.4
+Albany,GA,1.4
+Charleston,WV,1.4
+St. George,UT,1.3
+Idaho Falls,ID,1.3
+Huntington,WV,1.3
+Winston,NC,1.3
+Montgomery,AL,1.3
+Little Rock,AR,1.3
+Lima,OH,1.3
+Youngstown,OH,1.3
+Salisbury,MD,1.3
+Greenville,NC,1.3
+Monroe,LA,1.3
+Lynchburg,VA,1.2
+Danville,IL,1.2
+Barnstable Town,MA,1.2
+Rapid City,SD,1.2
+Burlington,IA,1.2
+Madera,CA,1.2
+Lewiston,ME,1.2
+Bangor,ME,1.2
+Quincy,IL,1.2
+Chattanooga,TN,1.2
+Mansfield,OH,1.1
+Knoxville,TN,1.1
+Tyler,TX,1.1
+Jonesboro,AR,1.1
+Asheville,NC,1.1
+Houma,LA,1.1
+Glens Falls,NY,1.1
+Johnson City,TN,1.1
+Texarkana,TX,1.1
+Coeur d'Alene,ID,1.1
+Wheeling,WV,1.1
+East Stroudsburg,PA,1.1
+McAllen,TX,1.1
+Hagerstown,MD,1
+Rocky Mount,NC,1
+Gulfport,MS,1
+Lafayette,LA,1
+Terre Haute,IN,1
+Farmington,NM,1
+Jackson,MI,1
+Jefferson City,MO,0.9
+Sumter,SC,0.9
+Kingston,NY,0.9
+Springfield,OH,0.9
+Carbondale,IL,0.9
+Longview,TX,0.9
+Hot Springs,AR,0.9
+Greenville,SC,0.9
+Lake Charles,LA,0.9
+Bowling Green,KY,0.9
+Crestview,FL,0.9
+Jackson,MS,0.8
+Goldsboro,NC,0.8
+Huntsville,AL,0.8
+Monroe,MI,0.8
+Hattiesburg,MS,0.8
+Port St. Lucie,FL,0.8
+Tuscaloosa,AL,0.8
+Jacksonville,NC,0.8
+Paducah,KY,0.8
+Gainesville,GA,0.8
+Florence,SC,0.7
+Claremont,NH,0.7
+Sierra Vista,AZ,0.7
+Kingsport,TN,0.7
+Lewiston,ID,0.7
+Clarksville,TN,0.7
+Ocala,FL,0.7
+Sherman,TX,0.7
+Augusta,GA,0.7
+Michigan City,IN,0.7
+Gadsden,AL,0.7
+Fort Smith,AR,0.6
+Anniston,AL,0.6
+Spartanburg,SC,0.6
+Homosassa Springs,FL,0.6
+Ontario,OR,0.6
+Joplin,MO,0.5
+Gettysburg,PA,0.5
+Myrtle Beach,SC,0.5
+Rochester,MN,0.4
+Prescott,AZ,0.4
+Lake Havasu City,AZ,0.4
+Hickory,NC,0.4
+New Bern,NC,0.4
+Daphne,AL,0.3
+Burlington,NC,0.3
+Midland,MI,0.3
+Altoona,PA,0.2
+Niles,MI,0.2
+Winchester,VA,0.1
+El Centro,CA,0.1
+Fort Madison,IA,0.1
+Sebring,FL,0.1
+Weirton,WV,0.1
+Hammond,LA,0.1
+Elmira,NY,0.1
+Staunton,VA,0.1
+Birmingham,AL,0.1
+Beckley,WV,0.1
+Punta Gorda,FL,0
+Union City,TN,0
+Warner Robins,GA,0
+Berlin,NH,0
+Chambersburg,PA,0
+Hilton Head Island,SC,0
+The Villages,FL,0
+Bloomsburg,PA,0
+Lawton,OK,0
+Morristown,TN,0
+Kokomo,IN,0
+Natchez,MS,0
+Jackson,WY,0
+Iron Mountain,MI,0
+Hinesville,GA,0
+Great Falls,MT,0
+Grand Island,NE,0
+Pine Bluff,AR,0
+Point Pleasant,WV,0
+Florence,AL,0
+Eufaula,AL,0
+Enid,OK,0
+Elizabethtown,KY,0
+Rome,GA,0
+Dothan,AL,0
+Decatur,AL,0
+Dalton,GA,0
+Sebastian,FL,0
+Columbus,IN,0
+Cleveland,TN,0
+Cape Girardeau,MO,0
+Brunswick,GA,0
+Bluefield,WV,0
+Valdosta,GA,0
+Wahpeton,ND,0
+Auburn,AL,0
+Watertown,NY,0
+Alexandria,LA,0
+Marinette,WI,0
+Mankato,MN,0
+Manhattan,KS,0

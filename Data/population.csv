@@ -1,0 +1,940 @@
+City,State,Population
+New York,NY,20140470
+Los Angeles,CA,13200998
+Chicago,IL,9618502
+Dallas,TX,7637387
+Houston,TX,7122240
+Washington,DC,6385162
+Philadelphia,PA,6245051
+Miami,FL,6138333
+Atlanta,GA,6089815
+Boston,MA,4941632
+Phoenix,AZ,4845832
+San Francisco,CA,4749008
+Riverside,CA,4599839
+Detroit,MI,4392041
+Seattle,WA,4018762
+Minneapolis,MN,3690261
+San Diego,CA,3298634
+Tampa,FL,3175275
+Denver,CO,2963821
+Baltimore,MD,2844510
+St. Louis,MO,2820253
+Orlando,FL,2673376
+Charlotte,NC,2660329
+San Antonio,TX,2558143
+Portland,OR,2512859
+Sacramento,CA,2397382
+Pittsburgh,PA,2370930
+Austin,TX,2283371
+Las Vegas,NV,2265461
+Cincinnati,OH,2256884
+Kansas City,MO,2192035
+Columbus,OH,2138926
+Indianapolis,IN,2111040
+Cleveland,OH,2088251
+San Juan,PR,2081265
+San Jose,CA,2000468
+Nashville,TN,1989519
+Virginia Beach,VA,1799674
+Providence,RI,1676579
+Jacksonville,FL,1605848
+Milwaukee,WI,1574731
+Oklahoma City,OK,1425695
+Raleigh,NC,1413982
+Memphis,TN,1337779
+Richmond,VA,1314434
+Louisville/Jefferson County,KY,1285439
+New Orleans,LA,1271845
+Salt Lake City,UT,1257936
+Hartford,CT,1213531
+Buffalo,NY,1166902
+Birmingham,AL,1115289
+Rochester,NY,1090135
+Grand Rapids,MI,1087592
+Tucson,AZ,1043433
+Urban Honolulu,HI,1016508
+Tulsa,OK,1015331
+Fresno,CA,1008654
+Worcester,MA,978529
+Omaha,NE,967604
+Bridgeport,CT,957419
+Greenville,SC,928195
+Albuquerque,NM,916528
+Bakersfield,CA,909235
+Albany,NY,899262
+Knoxville,TN,879773
+McAllen,TX,870781
+Baton Rouge,LA,870569
+El Paso,TX,868859
+New Haven,CT,864835
+Allentown,PA,861889
+Oxnard,CA,843843
+North Port,FL,833716
+Columbia,SC,829470
+Dayton,OH,814049
+Charleston,SC,799636
+Stockton,CA,779233
+Greensboro,NC,776566
+Boise City,ID,764718
+Cape Coral,FL,760822
+Colorado Springs,CO,755105
+Little Rock,AR,748031
+Lakeland,FL,725046
+Des Moines,IA,709466
+Akron,OH,702219
+Springfield,MA,699162
+Poughkeepsie,NY,697221
+Ogden,UT,694863
+Madison,WI,680796
+Winston,NC,675966
+Provo,UT,671185
+Deltona,FL,668921
+Syracuse,NY,662057
+Durham,NC,649903
+Wichita,KS,647610
+Toledo,OH,646604
+Augusta,GA,611000
+Palm Bay,FL,606612
+Jackson,MS,591978
+Harrisburg,PA,591712
+Spokane,WA,585784
+Scranton,PA,567559
+Chattanooga,TN,562647
+Lancaster,PA,552984
+Modesto,CA,552878
+Portland,ME,551740
+Fayetteville,AR,546725
+Lansing,MI,541297
+Youngstown,OH,541243
+Fayetteville,NC,520378
+Lexington,KY,516811
+Pensacola,FL,509905
+Huntsville,AL,491723
+Reno,NV,490596
+Santa Rosa,CA,488863
+Myrtle Beach,SC,487722
+Port St. Lucie,FL,487657
+Lafayette,LA,478384
+Springfield,MO,475432
+Killeen,TX,475367
+Visalia,CA,473117
+Asheville,NC,469015
+York,PA,456438
+Vallejo,CA,453491
+Santa Maria,CA,448229
+Salinas,CA,439035
+Salem,OR,433353
+Mobile,AL,430197
+Reading,PA,428849
+Manchester,NH,422937
+Corpus Christi,TX,421933
+Brownsville,TX,421017
+Fort Wayne,IN,419601
+Salisbury,MD,418046
+Gulfport,MS,416259
+Flint,MI,406211
+Savannah,GA,404798
+Peoria,IL,402391
+Canton,OH,401574
+Anchorage,AK,398328
+Beaumont,TX,397565
+Shreveport,LA,393406
+Trenton,NJ,387340
+Montgomery,AL,386047
+Davenport,IA,384324
+Tallahassee,FL,384298
+Eugene,OR,382971
+Ocala,FL,375908
+Naples,FL,375752
+Ann Arbor,MI,372258
+Hickory,NC,365276
+Huntington,WV,359862
+Fort Collins,CO,359066
+Lincoln,NE,340217
+Gainesville,FL,339247
+Rockford,IL,338798
+Boulder,CO,330758
+Greeley,CO,328981
+Columbus,GA,328883
+Green Bay,WI,328268
+Spartanburg,SC,327997
+South Bend,IN,324501
+Lubbock,TX,321368
+Clarksville,TN,320535
+Roanoke,VA,315251
+Evansville,IN,314049
+Aguadilla,PR,310160
+Kingsport,TN,307614
+Kennewick,WA,303622
+Olympia,WA,294793
+Hagerstown,MD,293844
+Utica,NY,292264
+Duluth,MN,291638
+Crestview,FL,286973
+Longview,TX,286184
+Wilmington (Cape Fear),NC,285905
+San Luis Obispo,CA,282424
+Merced,CA,281202
+Waco,TX,277547
+Sioux Falls,SD,276730
+Cedar Rapids,IA,276520
+Bremerton,WA,275611
+Atlantic City,NJ,274534
+Erie,PA,270876
+Santa Cruz,CA,270861
+Amarillo,TX,268691
+Tuscaloosa,AL,268674
+Norwich,CT,268555
+College Station,TX,268248
+Laredo,TX,267114
+Kalamazoo,MI,261670
+Lynchburg,VA,261593
+Charleston,WV,258859
+Yakima,WA,256728
+Fargo,ND,249843
+Binghamton,NY,247138
+Fort Smith,AR,244310
+Appleton,WI,243147
+Prescott Valley,AZ,236209
+Macon,GA,233802
+Tyler,TX,233479
+Topeka,KS,233152
+Daphne,AL,231767
+Barnstable Town,MA,228996
+Bellingham,WA,226847
+Rochester,MN,226329
+Burlington,VT,225562
+Ponce,PR,224142
+Lafayette,IN,223716
+Medford,OR,223259
+Champaign,IL,222538
+Lake Charles,LA,222402
+Charlottesville,VA,221524
+Lebanon,NH,221211
+Las Cruces,NM,219561
+Hilton Head Island,SC,215908
+Athens,GA,215415
+Lake Havasu City,AZ,213267
+Chico,CA,211632
+Columbia,MO,210864
+Springfield,IL,208640
+Johnson City,TN,207285
+Houma,LA,207137
+Monroe,LA,207104
+Elkhart,IN,207047
+Jacksonville,NC,204576
+Yuma,AZ,203881
+Gainesville,GA,203136
+Hilo,HI,200629
+Florence,SC,199964
+St. Cloud,MN,199671
+Bend,OR,198253
+Racine,WI,197727
+Warner Robins,GA,191614
+Saginaw,MI,190124
+Punta Gorda,FL,186847
+Torrington,CT,185186
+Terre Haute,IN,185031
+Billings,MT,184167
+Arecibo,PR,182705
+Redding,CA,182155
+Dover,DE,181851
+Kingston,NY,181851
+Joplin,MO,181409
+Yuba City,CA,181208
+Jackson,TN,180504
+St. George,UT,180279
+El Centro,CA,179702
+Bowling Green,KY,179639
+Abilene,TX,176579
+Muskegon,MI,175824
+Iowa City,IA,175419
+Midland,TX,175220
+Panama City,FL,175216
+Auburn,AL,174241
+Hattiesburg,MS,172231
+Eau Claire,WI,172007
+Oshkosh,WI,171730
+Burlington,NC,171415
+Coeur d'Alene,ID,171362
+Bloomington,IL,170954
+Greenville,NC,170243
+Waterloo,IA,168461
+East Stroudsburg,PA,168327
+Pueblo,CO,168162
+Wausau,WI,166428
+Blacksburg,VA,166378
+Odessa,TX,165171
+Kahului,HI,164754
+Janesville,WI,163687
+Tupelo,MS,163398
+Bloomington,IN,161039
+Jackson,MI,160366
+Sebastian,FL,159788
+State College,PA,158172
+Idaho Falls,ID,157429
+Decatur,AL,156494
+Madera,CA,156255
+Chambersburg,PA,155932
+Grand Junction,CO,155703
+Elizabethtown,KY,155572
+Santa Fe,NM,154823
+Monroe,MI,154809
+Niles,MI,154316
+Vineland,NJ,154152
+Homosassa Springs,FL,153843
+Concord,NH,153808
+Traverse City,MI,153448
+Hanford,CA,152486
+Bangor,ME,152199
+Alexandria,LA,152192
+Dothan,AL,151007
+Florence,AL,150791
+Jefferson City,MO,150309
+Sioux City,IA,149940
+London,KY,149863
+Albany,GA,148922
+Ottawa,IL,148539
+Wichita Falls,TX,148128
+Valdosta,GA,148126
+Texarkana,TX,147519
+Logan,UT,147348
+Flagstaff,AZ,145101
+Rocky Mount,NC,143870
+Lebanon,PA,143257
+Pottsville,PA,143049
+Dalton,GA,142837
+Morristown,TN,142709
+Winchester,VA,142632
+Morgantown,WV,140038
+La Crosse,WI,139627
+Wheeling,WV,139513
+Rapid City,SD,139074
+Napa,CA,138019
+Sumter,SC,136700
+Eureka,CA,136463
+Springfield,OH,136001
+Harrisonburg,VA,135571
+Sherman,TX,135543
+Battle Creek,MI,134310
+Jonesboro,AR,134196
+Manhattan,KS,134046
+Bismarck,ND,133626
+Johnstown,PA,133472
+Carbondale,IL,133435
+Hammond,LA,133157
+The Villages,FL,129752
+Mount Vernon,WA,129523
+Pittsfield,MA,129026
+Albany,OR,128610
+Jamestown,NY,127657
+Glens Falls,NY,127039
+Lawton,OK,126652
+Cleveland,TN,126164
+Sierra Vista,AZ,125447
+Staunton,VA,125433
+Ames,IA,125252
+San Germán,PR,125100
+Mansfield,OH,124936
+Augusta,ME,123642
+San Angelo,TX,122888
+Altoona,PA,122822
+New Bern,NC,122168
+Wenatchee,WA,122012
+Farmington,NM,121661
+Owensboro,KY,121559
+St. Joseph,MO,121467
+Holland,MI,120502
+Bozeman,MT,118960
+Lawrence,KS,118785
+Sheboygan,WI,118034
+Missoula,MT,117922
+Goldsboro,NC,117333
+Weirton,WV,116903
+Wooster,OH,116894
+Watertown,NY,116721
+Lumberton,NC,116530
+Anniston,AL,116441
+Beckley,WV,115079
+Twin Falls,ID,114283
+Williamsport,PA,114188
+Cookeville,TN,113982
+California,MD,113777
+Brunswick,GA,113495
+Michigan City,IN,112417
+Muncie,IN,111903
+Roseburg,OR,111201
+Lewiston,ME,111139
+Longview,WA,110730
+Ogdensburg,NY,108505
+Kankakee,IL,107502
+Tullahoma,TN,107124
+Richmond,KY,106864
+Show Low,AZ,106717
+Whitewater,WI,106478
+Bluefield,WV,106363
+Ithaca,NY,105740
+Grand Forks,ND,104362
+Kalispell,MT,104357
+LaGrange,GA,104198
+Fond du Lac,WI,104154
+Decatur,IL,103998
+Bay City,MI,103856
+Gettysburg,PA,103852
+Mankato,MN,103566
+Gadsden,AL,103436
+Danville,VA,103091
+Truckee,CA,102241
+Lima,OH,102206
+Salem,OH,101877
+Sebring,FL,101235
+Cheyenne,WY,100512
+Hot Springs,AR,100180
+Pinehurst,NC,99727
+Shelby,NC,99519
+Adrian,MI,99423
+Dubuque,IA,99266
+Moses Lake,WA,99123
+Paducah,KY,98660
+Rome,GA,98584
+Sevierville,TN,98380
+Victoria,TX,98331
+Albertville,AL,97612
+Mayagüez,PR,97605
+Meridian,MS,97587
+Ashtabula,OH,97574
+Cape Girardeau,MO,97517
+Brainerd,MN,96189
+Fairbanks,AK,95655
+Ocean City,NJ,95263
+Corvallis,OR,95184
+Cumberland,MD,95044
+Pocatello,ID,94896
+Corning,NY,93584
+New Philadelphia,OH,93263
+Hermiston,OR,92261
+Sunbury,PA,91647
+Ukiah,CA,91601
+Clarksburg,WV,90434
+Parkersburg,WV,89490
+Beaver Dam,WI,89396
+Grants Pass,OR,88090
+Cullman,AL,87866
+Pine Bluff,AR,87751
+Oak Harbor,WA,86857
+Zanesville,OH,86410
+Lufkin,TX,86395
+Yauco,PR,86142
+New Castle,PA,86070
+Watertown,WI,84900
+Great Falls,MT,84414
+Orangeburg,SC,84223
+Elmira,NY,84148
+Meadville,PA,83938
+Kokomo,IN,83658
+Russellville,AR,83644
+Laurel,MS,83613
+Midland,MI,83494
+Indiana,PA,83246
+Helena,MT,83058
+Key FL,82874
+Bloomsburg,PA,82863
+Opelousas,LA,82540
+Columbus,IN,82208
+Athens,TX,82150
+Centralia,WA,82149
+Talladega,AL,82149
+Stillwater,OK,81646
+Hinesville,GA,81424
+Manitowoc,WI,81359
+Statesboro,GA,81099
+DuBois,PA,80562
+Warsaw,IN,80240
+Casper,WY,79955
+Plattsburgh,NY,79843
+Glenwood Springs,CO,79043
+Wilson,NC,78784
+Seneca,SC,78607
+Minot,ND,77546
+Port Angeles,WA,77155
+Heber,UT,77145
+Chillicothe,OH,77093
+Olean,NY,77042
+Grand Island,NE,77038
+Searcy,AR,76822
+Keene,NH,76458
+Huntsville,TX,76400
+Auburn,NY,76248
+Jefferson,GA,75907
+Quincy,IL,75769
+Aberdeen,WA,75636
+Sandusky,OH,75622
+Frankfort,KY,75393
+Findlay,OH,74920
+Hobbs,NM,74455
+Wisconsin Rapids,WI,74207
+Danville,IL,74188
+Somerset,PA,74129
+Portsmouth,OH,74008
+Palatka,FL,73321
+Kapaa,HI,73298
+Gallup,NM,72902
+Shawnee,OK,72454
+Fort Payne,AL,71608
+Mount Airy,NC,71359
+Stevens Point,WI,70377
+Greeneville,TN,70152
+Lake City,FL,69698
+Klamath Falls,OR,69413
+Greenwood,SC,69351
+Guayama,PR,68442
+Clearlake,CA,68163
+Alamogordo,NM,67839
+Morehead City,NC,67686
+Faribault,MN,67097
+Farmington,MO,66922
+Marion,IN,66674
+Richmond,IN,66553
+Muskogee,OK,66339
+Rexburg,ID,66301
+Roanoke Rapids,NC,66093
+Marquette,MI,66017
+North Wilkesboro,NC,65969
+Rio Grande City,TX,65920
+Red Bluff,CA,65829
+Baraboo,WI,65763
+Shelton,WA,65726
+Marinette,WI,65374
+Marion,OH,65359
+Jasper,AL,65342
+Dublin,GA,65165
+Roswell,NM,65157
+Somerset,KY,65034
+Coos Bay,OR,64929
+Nacogdoches,TX,64653
+Forest City,NC,64444
+Martinsville,VA,64433
+Mount Pleasant,MI,64394
+Lewiston,ID,64375
+Laconia,NH,63705
+Georgetown,SC,63404
+Sanford,NC,63285
+Enid,OK,62846
+Mount Vernon,OH,62721
+Walla Walla,WA,62584
+Albemarle,NC,62504
+Athens,OH,62431
+Carlsbad,NM,62314
+Hutchinson,KS,61898
+Starkville,MS,61714
+Granbury,TX,61598
+Hudson,NY,61570
+Crossville,TN,61145
+Gillette,WY,61045
+Sturgis,MI,60939
+Rutland,VT,60572
+Fergus Falls,MN,60081
+Salina,KS,60038
+Sayre,PA,59967
+Barre,VT,59807
+Marietta,OH,59771
+Fernley,NV,59235
+Fremont,OH,58896
+Columbus,MS,58879
+Carson City,NV,58639
+Norwalk,OH,58565
+Oneonta,NY,58524
+Batavia,NY,58388
+Ardmore,OK,58149
+Palestine,TX,57922
+Eagle Pass,TX,57887
+Fort Madison,IA,57809
+Calhoun,GA,57544
+Charleston,IL,57313
+Cedar City,UT,57289
+Cullowhee,NC,57226
+Ontario,OR,56957
+Kearney,NE,56772
+Gaffney,SC,56216
+Fairmont,WV,56205
+Picayune,MS,56145
+Branson,MO,56066
+Waycross,GA,55967
+Jasper,IN,55887
+Oxford,MS,55813
+Edwards,CO,55731
+Sterling,IL,55691
+Durango,CO,55638
+Sonora,CA,55620
+Elko,NV,55557
+Batesville,AR,55209
+Kinston,NC,55122
+Tiffin,OH,55069
+Danville,KY,54889
+Glasgow,KY,54771
+St. Marys,GA,54768
+Point Pleasant,WV,54673
+Boone,NC,54086
+Warrensburg,MO,54013
+Fort Leonard Wood,MO,53955
+Elizabeth City,NC,53573
+Enterprise,AL,53465
+Gloversville,NY,53324
+Athens,TN,53276
+Payson,AZ,53272
+Poplar Bluff,MO,52809
+Corsicana,TX,52624
+Kerrville,TX,52598
+Scottsboro,AL,52579
+Milledgeville,GA,52534
+Bartlesville,OK,52455
+Ashland,OH,52447
+Platteville,WI,51938
+Greenville,OH,51881
+Rochelle,IL,51788
+Alexander City,AL,51698
+Pahrump,NV,51591
+Douglas,GA,51378
+Mason City,IA,50570
+Oil City,PA,50454
+Jacksonville,TX,50412
+Newport,OR,50395
+Shelbyville,TN,50237
+Paris,TX,50088
+Galesburg,IL,49967
+Winona,MN,49671
+Amsterdam,NY,49532
+Gardnerville Ranchos,NV,49488
+Morgan City,LA,49406
+Ozark,AL,49326
+Cañon City,CO,48939
+New Castle,IN,48914
+Fort Polk LA,48750
+Norfolk,NE,48744
+Cadillac,MI,48725
+Alice,TX,48722
+Clovis,NM,48430
+Ruston,LA,48396
+Sidney,OH,48230
+Natchez,MS,48225
+Blackfoot,ID,47992
+Pullman,WA,47973
+Nogales,AZ,47669
+Del Rio,TX,47586
+Red Wing,MN,47582
+Malone,NY,47555
+Montrose,CO,47553
+Kendallville,IN,47457
+Sandpoint,ID,47110
+Tahlequah,OK,47078
+Mount Sterling,KY,46977
+Cortland,NY,46809
+Bardstown,KY,46738
+Clinton,IA,46460
+Seymour,IN,46428
+Wapakoneta,OH,46422
+Burley,ID,46268
+Bemidji,MN,46228
+Bellefontaine,OH,46150
+Lewistown,PA,46143
+Plymouth,IN,46095
+Durant,OK,46067
+Cornelia,GA,46031
+Moultrie,GA,45898
+Thomasville,GA,45798
+Hillsdale,MI,45746
+Paragould,AR,45736
+Bogalusa,LA,45463
+Menomonie,WI,45440
+Madisonville,KY,45423
+Burlington,IA,45297
+Shawano,WI,45136
+Grand Rapids,MN,45014
+Bedford,IN,45011
+Greenville,MS,44922
+Coldwater,MI,44862
+Vicksburg,MS,44722
+Washington,NC,44652
+Rolla,MO,44638
+Freeport,IL,44630
+Harrison,AR,44598
+Marion,NC,44578
+Ellensburg,WA,44337
+Lawrenceburg,TN,44159
+Huntingdon,PA,44092
+McAlester,OK,43773
+Willmar,MN,43732
+Mount Pleasant,TX,43711
+Ponca City,OK,43700
+Auburn,IN,43265
+Muscatine,IA,43235
+Sedalia,MO,42980
+Rockingham,NC,42946
+Cedartown,GA,42853
+Duncan,OK,42848
+Lewisburg,PA,42681
+Henderson,NC,42578
+Stephenville,TX,42545
+Celina,OH,42528
+Garden City,KS,42453
+Aberdeen,SD,42287
+Rock Springs,WY,42272
+Bucyrus,OH,42025
+Wilmington,OH,42018
+Alma,MI,41761
+Gainesville,TX,41668
+Mountain Home,AR,41627
+El Campo,TX,41570
+Tifton,GA,41344
+Astoria,OR,41072
+McMinnville,TN,40953
+Williston,ND,40950
+Blytheville,AR,40685
+Bradford,PA,40432
+Española,NM,40363
+McComb,MS,40324
+Marshalltown,IA,40105
+Austin,MN,40029
+Big Stone Gap,VA,39817
+West Plains,MO,39750
+Selinsgrove,PA,39736
+Big Rapids,MI,39714
+Okeechobee,FL,39644
+Clewiston,FL,39619
+Moscow,ID,39517
+Houghton,MI,39407
+Riverton,WY,39234
+El Dorado,AR,39054
+Alexandria,MN,39006
+Pittsburg,KS,38972
+Hannibal,MO,38880
+Urbana,OH,38714
+Warren,PA,38587
+Safford,AZ,38533
+Selma,AL,38462
+Cambridge,OH,38438
+Greenwood,MS,38337
+Defiance,OH,38286
+Brownwood,TX,38095
+Ada,OK,38065
+Sikeston,MO,38059
+Crawfordsville,IN,37936
+Scottsbluff,NE,37893
+Logansport,IN,37870
+Jacksonville,IL,37864
+Centralia,IL,37729
+Newberry,SC,37719
+Easton,MD,37526
+Natchitoches,LA,37515
+Lock Haven,PA,37450
+Owatonna,MN,37406
+Bennington,VT,37347
+Fremont,NE,37167
+Campbellsville,KY,37130
+Mount Vernon,IL,37113
+Murray,KY,37103
+Laramie,WY,37066
+Fort Dodge,IA,36999
+Minden,LA,36967
+Kill Devil Hills,NC,36915
+Escanaba,MI,36903
+Dyersburg,TN,36801
+Sulphur Springs,TX,36787
+Sault Ste. Marie,MI,36785
+Hutchinson,MN,36771
+Atmore,AL,36757
+Huntington,IN,36662
+Mayfield,KY,36649
+Coshocton,OH,36612
+DeRidder,LA,36549
+Vincennes,IN,36282
+Bay City,TX,36255
+Lebanon,MO,36039
+Newport,TN,35999
+Peru,IN,35962
+Pontiac,IL,35815
+Decatur,IN,35809
+Brenham,TX,35805
+North Platte,NE,35791
+Bonham,TX,35662
+Vidalia,GA,35640
+Vernal,UT,35620
+Ottumwa,IA,35437
+Butte,MT,35133
+Jackson,WY,34961
+Brookhaven,MS,34907
+Big Spring,TX,34860
+Emporia,KS,34751
+Corinth,MS,34740
+Coamo,PR,34668
+Effingham,IL,34668
+Dickinson,ND,34591
+Winfield,KS,34549
+Watertown,SD,34489
+Taos,NM,34489
+Angola,IN,34435
+Brookings,SD,34375
+Lewisburg,TN,34318
+Columbus,NE,34296
+Dodge City,KS,34287
+Laurinburg,NC,34174
+Americus,GA,34163
+Dixon,IL,34145
+Taylorville,IL,34032
+Arcadia,FL,33976
+Seneca Falls,NY,33814
+Pella,IA,33414
+Washington,IN,33381
+Frankfort,IN,33190
+Madison,IN,33147
+Malvern,AR,33040
+Troy,AL,33009
+Brevard,NC,32986
+Martin,TN,32902
+Dayton,TN,32870
+Susanville,CA,32730
+Jackson,OH,32653
+Mount Gay,WV,32567
+Cambridge,MD,32531
+Plainview,TX,32522
+Juneau,AK,32255
+Jennings,LA,32250
+Paris,TN,32199
+Coffeyville,KS,31486
+Las Vegas,NM,31390
+Kingsville,TX,31390
+Berlin,NH,31268
+Hastings,NE,31205
+Breckenridge,CO,31055
+Beeville,TX,31047
+St. Marys,PA,30990
+Cleveland,MS,30985
+Wabash,IN,30976
+Central City,KY,30928
+Sheridan,WY,30921
+Albert Lea,MN,30895
+Union City,TN,30787
+Iron Mountain,MI,30505
+Miami,OK,30285
+McPherson,KS,30223
+Jesup,GA,30144
+Bainbridge,GA,29367
+Kirksville,MO,29346
+Fort Morgan,CO,29111
+Ludington,MI,29052
+Washington Court House,OH,28951
+Hays,KS,28934
+Van Wert,OH,28931
+Alpena,MI,28907
+Mountain Home,ID,28666
+Weatherford,OK,28513
+Mineral Wells,TX,28409
+Hope,AR,28375
+Kennett,MO,28283
+Silver City,NM,28185
+Bluffton,IN,28180
+Lincoln,IL,27987
+Elkins,WV,27932
+Crescent City,CA,27743
+Thomaston,GA,27700
+North Vernon,IN,27613
+Eufaula,AL,27458
+Camden,AR,27389
+Union,SC,27244
+Macomb,IL,27238
+Grants,NM,27172
+Toccoa,GA,26784
+Fredericksburg,TX,26725
+The Dalles,OR,26670
+Bennettsville,SC,26667
+Greensburg,IN,26472
+La Grande,OR,26196
+Lexington,NE,26004
+Ottawa,KS,25996
+Indianola,MS,25971
+New Ulm,MN,25912
+Coco (Salinas),PR,25789
+Spearfish,SD,25768
+Fallon,NV,25516
+Great Bend,KS,25493
+Deming,NM,25427
+Hailey,ID,25349
+Wauchula,FL,25327
+Marshall,MN,25269
+Summerville,GA,24965
+Mexico,MO,24962
+Steamboat Springs,CO,24829
+Altus,OK,24785
+Prineville,OR,24738
+Moberly,MO,24716
+Uvalde,TX,24564
+Scottsburg,IN,24384
+Woodward,OK,24219
+Middlesborough,KY,24097
+Hood River,OR,23977
+Rockport,TX,23830
+Brookings,OR,23446
+Mitchell,SD,23417
+Connersville,IN,23398
+Marshall,MO,23333
+Yankton,SD,23310
+Forrest City,AR,23090
+Wahpeton,ND,23035
+Magnolia,AR,22801
+Elk City,OK,22410
+Worthington,MN,22290
+Oskaloosa,IA,22190
+Pampa,TX,22054
+Liberal,KS,21964
+Beatrice,NE,21704
+Grenada,MS,21629
+Jamestown,ND,21593
+Levelland,TX,21537
+Sterling,CO,21528
+Arkadelphia,AR,21446
+Clarksdale,MS,21390
+Guymon,OK,21384
+Dumas,TX,21358
+Maryville,MO,21241
+Storm Lake,IA,20823
+Huron,SD,20812
+Carroll,IA,20760
+Pierre,SD,20745
+Borger,TX,20617
+Othello,WA,20613
+Vineyard Haven,MA,20600
+Evanston,WY,20450
+Price,UT,20412
+Santa Isabel,PR,20281
+Ruidoso,NM,20269
+Parsons,KS,20184
+Raymondville,TX,20164
+Cordele,GA,20128
+Port Lavaca,TX,20106
+Fairmont,MN,20025
+Los Alamos,NM,19419
+Portales,NM,19191
+West Point,MS,18636
+Andrews,TX,18610
+Hereford,TX,18583
+Pearsall,TX,18385
+Brownsville,TN,17864
+Spirit Lake,IA,17703
+Winnemucca,NV,17285
+Fitzgerald,GA,17194
+Maysville,KY,17120
+Snyder,TX,16932
+Helena,AR,16568
+Spencer,IA,16384
+Atchison,KS,16348
+Fairfield,IA,15663
+Vermillion,SD,14967
+Pecos,TX,14812
+Jayuya,PR,14779
+Sweetwater,TX,14738
+Ketchikan,AK,13948
+Zapata,TX,13889
+Craig,CO,13292
+Vernon,TX,12887
+Lamesa,TX,12456

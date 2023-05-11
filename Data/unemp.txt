@@ -1,0 +1,778 @@
+Madison, WI 
+1.6	1
+Columbia, MO 
+1.7	2
+Decatur, AL 
+1.8	3
+Fond du Lac, WI 
+1.8	3
+Huntsville, AL 
+1.8	3
+Logan, UT-ID 
+1.8	3
+Sheboygan, WI 
+1.8	3
+Ames, IA 
+1.9	8
+Appleton, WI 
+1.9	8
+Columbus, IN 
+1.9	8
+Crestview-Fort Walton Beach-Destin, FL 
+1.9	8
+Fargo, ND-MN 
+1.9	8
+Jefferson City, MO 
+1.9	8
+Miami-Fort Lauderdale-West Palm Beach, FL 
+1.9	8
+Oshkosh-Neenah, WI 
+1.9	8
+Provo-Orem, UT 
+1.9	8
+Springfield, MO 
+1.9	8
+Wausau, WI 
+1.9	8
+Auburn-Opelika, AL 
+2.0	19
+Birmingham-Hoover, AL 
+2.0	19
+Bloomington, IN 
+2.0	19
+Fayetteville-Springdale-Rogers, AR-MO 
+2.0	19
+Gainesville, FL 
+2.0	19
+Idaho Falls, ID 
+2.0	19
+La Crosse-Onalaska, WI-MN 
+2.0	19
+Lafayette-West Lafayette, IN 
+2.0	19
+Ogden-Clearfield, UT 
+2.0	19
+Salt Lake City, UT 
+2.0	19
+Sioux Falls, SD 
+2.0	19
+St. Joseph, MO-KS 
+2.0	19
+Billings, MT 
+2.1	31
+Boise City, ID 
+2.1	31
+Burlington-South Burlington, VT Metropolitan NECTA
+2.1	31
+Daphne-Fairhope-Foley, AL 
+2.1	31
+Gainesville, GA 
+2.1	31
+Green Bay, WI 
+2.1	31
+Jacksonville, FL 
+2.1	31
+Joplin, MO 
+2.1	31
+Lincoln, NE 
+2.1	31
+Panama City, FL 
+2.1	31
+San Jose-Sunnyvale-Santa Clara, CA 
+2.1	31
+Bismarck, ND 
+2.2	42
+Boulder, CO 
+2.2	42
+Cape Girardeau, MO-IL 
+2.2	42
+Dothan, AL 
+2.2	42
+Fort Wayne, IN 
+2.2	42
+Indianapolis-Carmel-Anderson, IN 
+2.2	42
+Naples-Immokalee-Marco Island, FL 
+2.2	42
+North Port-Sarasota-Bradenton, FL 
+2.2	42
+Palm Bay-Melbourne-Titusville, FL 
+2.2	42
+Pocatello, ID 
+2.2	42
+Rapid City, SD 
+2.2	42
+Tallahassee, FL 
+2.2	42
+Tampa-St. Petersburg-Clearwater, FL 
+2.2	42
+Tuscaloosa, AL 
+2.2	42
+Dover-Durham, NH-ME Metropolitan NECTA
+2.3	56
+Evansville, IN-KY 
+2.3	56
+Gettysburg, PA 
+2.3	56
+Grand Forks, ND-MN 
+2.3	56
+Iowa City, IA 
+2.3	56
+Manchester, NH Metropolitan NECTA
+2.3	56
+Nashville-Davidson--Murfreesboro--Franklin, TN 
+2.3	56
+Orlando-Kissimmee-Sanford, FL 
+2.3	56
+Pensacola-Ferry Pass-Brent, FL 
+2.3	56
+St. George, UT 
+2.3	56
+Staunton-Waynesboro, VA 
+2.3	56
+Winchester, VA-WV 
+2.3	56
+Anniston-Oxford-Jacksonville, AL 
+2.4	68
+Athens-Clarke County, GA 
+2.4	68
+Charlottesville, VA 
+2.4	68
+Florence-Muscle Shoals, AL 
+2.4	68
+Fort Collins, CO 
+2.4	68
+Grand Island, NE 
+2.4	68
+Great Falls, MT 
+2.4	68
+Harrisonburg, VA 
+2.4	68
+Ithaca, NY 
+2.4	68
+Jonesboro, AR 
+2.4	68
+Kansas City, MO-KS 
+2.4	68
+Milwaukee-Waukesha-West Allis, WI 
+2.4	68
+Missoula, MT 
+2.4	68
+Muncie, IN 
+2.4	68
+Oklahoma City, OK 
+2.4	68
+Port St. Lucie, FL 
+2.4	68
+Portsmouth, NH-ME Metropolitan NECTA
+2.4	68
+San Francisco-Oakland-Hayward, CA 
+2.4	68
+San Luis Obispo-Paso Robles-Arroyo Grande, CA 
+2.4	68
+Twin Falls, ID 
+2.4	68
+Albany-Schenectady-Troy, NY 
+2.5	88
+Asheville, NC 
+2.5	88
+Blacksburg-Christiansburg-Radford, VA 
+2.5	88
+Charleston-North Charleston, SC 
+2.5	88
+Deltona-Daytona Beach-Ormond Beach, FL 
+2.5	88
+Eau Claire, WI 
+2.5	88
+Elkhart-Goshen, IN 
+2.5	88
+Enid, OK 
+2.5	88
+Gadsden, AL 
+2.5	88
+Lancaster, PA 
+2.5	88
+Mankato-North Mankato, MN 
+2.5	88
+Montgomery, AL 
+2.5	88
+Omaha-Council Bluffs, NE-IA 
+2.5	88
+Rochester, MN 
+2.5	88
+Santa Rosa, CA 
+2.5	88
+Savannah, GA 
+2.5	88
+St. Louis, MO-IL (1)
+2.5	88
+Trenton, NJ 
+2.5	88
+Amarillo, TX 
+2.6	106
+Atlanta-Sandy Springs-Roswell, GA 
+2.6	106
+Brunswick, GA 
+2.6	106
+Durham-Chapel Hill, NC 
+2.6	106
+Greenville-Anderson-Mauldin, SC 
+2.6	106
+Janesville-Beloit, WI 
+2.6	106
+Kingston, NY 
+2.6	106
+Knoxville, TN 
+2.6	106
+Lawrence, KS 
+2.6	106
+Lebanon, PA 
+2.6	106
+Lexington-Fayette, KY 
+2.6	106
+Manhattan, KS 
+2.6	106
+Midland, TX 
+2.6	106
+Minneapolis-St. Paul-Bloomington, MN-WI 
+2.6	106
+Racine, WI 
+2.6	106
+Roanoke, VA 
+2.6	106
+Sebastian-Vero Beach, FL 
+2.6	106
+Austin-Round Rock, TX 
+2.7	123
+Danbury, CT Metropolitan NECTA
+2.7	123
+Fort Smith, AR-OK 
+2.7	123
+Lakeland-Winter Haven, FL 
+2.7	123
+Louisville/Jefferson County, KY-IN 
+2.7	123
+Phoenix-Mesa-Scottsdale, AZ 
+2.7	123
+Portland-South Portland, ME Metropolitan NECTA
+2.7	123
+Prescott, AZ 
+2.7	123
+Providence-Warwick, RI-MA Metropolitan NECTA
+2.7	123
+Raleigh, NC 
+2.7	123
+Rome, GA 
+2.7	123
+Topeka, KS 
+2.7	123
+Tulsa, OK 
+2.7	123
+Chambersburg-Waynesboro, PA 
+2.8	136
+College Station-Bryan, TX 
+2.8	136
+Columbia, SC 
+2.8	136
+Denver-Aurora-Lakewood, CO 
+2.8	136
+Des Moines-West Des Moines, IA 
+2.8	136
+Harrisburg-Carlisle, PA 
+2.8	136
+Hilton Head Island-Bluffton-Beaufort, SC 
+2.8	136
+Hinesville, GA 
+2.8	136
+Little Rock-North Little Rock-Conway, AR 
+2.8	136
+Morgantown, WV 
+2.8	136
+Ocala, FL 
+2.8	136
+Santa Fe, NM 
+2.8	136
+State College, PA 
+2.8	136
+Valdosta, GA 
+2.8	136
+Warner Robins, GA 
+2.8	136
+Washington-Arlington-Alexandria, DC-VA-MD-WV 
+2.8	136
+York-Hanover, PA 
+2.8	136
+Alexandria, LA 
+2.9	153
+Boston-Cambridge-Nashua, MA-NH Metropolitan NECTA
+2.9	153
+California-Lexington Park, MD 
+2.9	153
+Cape Coral-Fort Myers, FL 
+2.9	153
+Chattanooga, TN-GA 
+2.9	153
+Hagerstown-Martinsburg, MD-WV 
+2.9	153
+Hickory-Lenoir-Morganton, NC 
+2.9	153
+Jackson, TN 
+2.9	153
+Lewiston, ID-WA 
+2.9	153
+Lubbock, TX 
+2.9	153
+Lynchburg, VA 
+2.9	153
+New Haven, CT Metropolitan NECTA
+2.9	153
+Richmond, VA 
+2.9	153
+Rochester, NY 
+2.9	153
+San Diego-Carlsbad, CA 
+2.9	153
+Sioux City, IA-NE-SD 
+2.9	153
+Spartanburg, SC 
+2.9	153
+Terre Haute, IN 
+2.9	153
+Wichita, KS 
+2.9	153
+Wilmington, NC 
+2.9	153
+Ann Arbor, MI 
+3.0	173
+Baton Rouge, LA 
+3.0	173
+Colorado Springs, CO 
+3.0	173
+Florence, SC 
+3.0	173
+Greeley, CO 
+3.0	173
+Hattiesburg, MS 
+3.0	173
+Jackson, MS 
+3.0	173
+Johnson City, TN 
+3.0	173
+Lake Charles, LA 
+3.0	173
+Macon-Bibb County, GA 
+3.0	173
+Mobile, AL 
+3.0	173
+Morristown, TN 
+3.0	173
+Napa, CA 
+3.0	173
+Punta Gorda, FL 
+3.0	173
+San Angelo, TX 
+3.0	173
+Syracuse, NY 
+3.0	173
+Virginia Beach-Norfolk-Newport News, VA-NC 
+3.0	173
+Albuquerque, NM 
+3.1	190
+Baltimore-Columbia-Towson, MD 
+3.1	190
+Bangor, ME Metropolitan NECTA
+3.1	190
+Binghamton, NY 
+3.1	190
+Bloomington, IL 
+3.1	190
+Charlotte-Concord-Gastonia, NC-SC 
+3.1	190
+Cincinnati, OH-KY-IN 
+3.1	190
+Cleveland, TN 
+3.1	190
+Columbus, OH 
+3.1	190
+Grand Junction, CO 
+3.1	190
+Grand Rapids-Wyoming, MI 
+3.1	190
+Hartford-West Hartford-East Hartford, CT Metropolitan NECTA
+3.1	190
+Kingsport-Bristol-Bristol, TN-VA 
+3.1	190
+Lafayette, LA 
+3.1	190
+Santa Maria-Santa Barbara, CA 
+3.1	190
+South Bend-Mishawaka, IN-MI 
+3.1	190
+Tucson, AZ 
+3.1	190
+Waterloo-Cedar Falls, IA 
+3.1	190
+Winston-Salem, NC 
+3.1	190
+Abilene, TX 
+3.2	209
+Augusta-Richmond County, GA-SC 
+3.2	209
+Bowling Green, KY 
+3.2	209
+Bridgeport-Stamford-Norwalk, CT Metropolitan NECTA
+3.2	209
+Buffalo-Cheektowaga-Niagara Falls, NY 
+3.2	209
+Burlington, NC 
+3.2	209
+Champaign-Urbana, IL 
+3.2	209
+Coeur d'Alene, ID 
+3.2	209
+Dallas-Fort Worth-Arlington, TX 
+3.2	209
+Detroit-Warren-Dearborn, MI 
+3.2	209
+Dubuque, IA 
+3.2	209
+Elmira, NY 
+3.2	209
+Glens Falls, NY 
+3.2	209
+Houma-Thibodaux, LA 
+3.2	209
+Lawton, OK 
+3.2	209
+New Bern, NC 
+3.2	209
+Norwich-New London-Westerly, CT-RI Metropolitan NECTA
+3.2	209
+Oxnard-Thousand Oaks-Ventura, CA 
+3.2	209
+Sherman-Denison, TX 
+3.2	209
+Waco, TX 
+3.2	209
+Allentown-Bethlehem-Easton, PA-NJ 
+3.3	229
+Charleston, WV 
+3.3	229
+Cheyenne, WY 
+3.3	229
+Columbus, GA-AL 
+3.3	229
+Michigan City-La Porte, IN 
+3.3	229
+Monroe, LA 
+3.3	229
+Sacramento--Roseville--Arden-Arcade, CA 
+3.3	229
+San Antonio-New Braunfels, TX 
+3.3	229
+St. Cloud, MN 
+3.3	229
+Tyler, TX 
+3.3	229
+Utica-Rome, NY 
+3.3	229
+Wichita Falls, TX 
+3.3	229
+Worcester, MA-CT Metropolitan NECTA
+3.3	229
+Cleveland-Elyria, OH 
+3.4	242
+Goldsboro, NC 
+3.4	242
+Gulfport-Biloxi-Pascagoula, MS 
+3.4	242
+Philadelphia-Camden-Wilmington, PA-NJ-DE-MD 
+3.4	242
+Reading, PA 
+3.4	242
+Reno, NV 
+3.4	242
+Seattle-Tacoma-Bellevue, WA 
+3.4	242
+Shreveport-Bossier City, LA 
+3.4	242
+The Villages, FL 
+3.4	242
+Urban Honolulu, HI 
+3.4	242
+Albany, GA 
+3.5	252
+Altoona, PA 
+3.5	252
+Anchorage, AK 
+3.5	252
+Beckley, WV 
+3.5	252
+Cedar Rapids, IA 
+3.5	252
+Dayton, OH 
+3.5	252
+Greenville, NC 
+3.5	252
+Homosassa Springs, FL 
+3.5	252
+Hot Springs, AR 
+3.5	252
+Lewiston-Auburn, ME Metropolitan NECTA
+3.5	252
+New Orleans-Metairie, LA 
+3.5	252
+Bloomsburg-Berwick, PA 
+3.6	263
+Clarksville, TN-KY 
+3.6	263
+Corvallis, OR 
+3.6	263
+Duluth, MN-WI 
+3.6	263
+Elizabethtown-Fort Knox, KY 
+3.6	263
+Fairbanks, AK 
+3.6	263
+Greensboro-High Point, NC 
+3.6	263
+Lansing-East Lansing, MI 
+3.6	263
+Riverside-San Bernardino-Ontario, CA 
+3.6	263
+Sebring, FL 
+3.6	263
+Sierra Vista-Douglas, AZ 
+3.6	263
+Springfield, IL 
+3.6	263
+Texarkana, TX-AR 
+3.6	263
+Carbondale-Marion, IL 
+3.7	276
+Davenport-Moline-Rock Island, IA-IL 
+3.7	276
+Jacksonville, NC 
+3.7	276
+Laredo, TX 
+3.7	276
+Las Cruces, NM 
+3.7	276
+Lima, OH 
+3.7	276
+Memphis, TN-MS-AR 
+3.7	276
+Owensboro, KY 
+3.7	276
+Parkersburg-Vienna, WV 
+3.7	276
+Pittsburgh, PA 
+3.7	276
+Springfield, MA-CT Metropolitan NECTA
+3.7	276
+Springfield, OH 
+3.7	276
+Dalton, GA 
+3.8	288
+Flagstaff, AZ 
+3.8	288
+Huntington-Ashland, WV-KY-OH 
+3.8	288
+Kahului-Wailuku-Lahaina, HI 
+3.8	288
+New York-Newark-Jersey City, NY-NJ-PA 
+3.8	288
+Odessa, TX 
+3.8	288
+Vallejo-Fairfield, CA 
+3.8	288
+Victoria, TX 
+3.8	288
+Akron, OH 
+3.9	296
+Canton-Massillon, OH 
+3.9	296
+Carson City, NV 
+3.9	296
+Casper, WY 
+3.9	296
+Houston-The Woodlands-Sugar Land, TX 
+3.9	296
+Kalamazoo-Portage, MI 
+3.9	296
+Lake Havasu City-Kingman, AZ 
+3.9	296
+Leominster-Gardner, MA Metropolitan NECTA
+3.9	296
+Los Angeles-Long Beach-Anaheim, CA 
+3.9	296
+Toledo, OH 
+3.9	296
+Watertown-Fort Drum, NY 
+3.9	296
+Chico, CA 
+4.0	307
+Cumberland, MD-WV 
+4.0	307
+El Paso, TX 
+4.0	307
+Killeen-Temple, TX 
+4.0	307
+Longview, TX 
+4.0	307
+Sumter, SC 
+4.0	307
+Waterbury, CT Metropolitan NECTA
+4.0	307
+Williamsport, PA 
+4.0	307
+Farmington, NM 
+4.1	315
+Midland, MI 
+4.1	315
+Myrtle Beach-Conway-North Myrtle Beach, SC-NC 
+4.1	315
+Portland-Vancouver-Hillsboro, OR-WA 
+4.1	315
+Redding, CA 
+4.1	315
+Chicago-Naperville-Elgin, IL-IN-WI 
+4.2	320
+Erie, PA 
+4.2	320
+Hammond, LA 
+4.2	320
+Jackson, MI 
+4.2	320
+Monroe, MI 
+4.2	320
+Peoria, IL 
+4.2	320
+Wheeling, WV-OH 
+4.2	320
+Bremerton-Silverdale, WA 
+4.3	327
+Kokomo, IN 
+4.3	327
+Pueblo, CO 
+4.3	327
+Scranton--Wilkes-Barre--Hazleton, PA 
+4.3	327
+Johnstown, PA 
+4.4	331
+Mansfield, OH 
+4.4	331
+Atlantic City-Hammonton, NJ 
+4.5	333
+Barnstable Town, MA Metropolitan NECTA
+4.5	333
+Battle Creek, MI 
+4.5	333
+Corpus Christi, TX 
+4.5	333
+Salem, OR 
+4.5	333
+Santa Cruz-Watsonville, CA 
+4.5	333
+Youngstown-Warren-Boardman, OH-PA 
+4.5	333
+Dover, DE 
+4.6	340
+Niles-Benton Harbor, MI 
+4.6	340
+Pine Bluff, AR 
+4.6	340
+Pittsfield, MA Metropolitan NECTA
+4.6	340
+Olympia-Tumwater, WA 
+4.7	344
+Salisbury, MD-DE 
+4.7	344
+Bend-Redmond, OR 
+4.8	346
+Danville, IL 
+4.8	346
+East Stroudsburg, PA 
+4.8	346
+Fayetteville, NC 
+4.8	346
+Weirton-Steubenville, WV-OH 
+4.8	346
+Eugene, OR 
+4.9	351
+Vineland-Bridgeton, NJ 
+4.9	351
+Walla Walla, WA 
+4.9	351
+Albany, OR 
+5.0	354
+Bellingham, WA 
+5.0	354
+Muskegon, MI 
+5.0	354
+New Bedford, MA Metropolitan NECTA
+5.0	354
+Bay City, MI 
+5.1	358
+Decatur, IL 
+5.1	358
+Kankakee, IL 
+5.1	358
+Medford, OR 
+5.1	358
+Rocky Mount, NC 
+5.2	362
+Stockton-Lodi, CA 
+5.2	362
+Modesto, CA 
+5.3	364
+Flint, MI 
+5.4	365
+Las Vegas-Henderson-Paradise, NV 
+5.4	365
+Rockford, IL 
+5.4	365
+Mount Vernon-Anacortes, WA 
+5.5	368
+Saginaw, MI 
+5.5	368
+Spokane-Spokane Valley, WA 
+5.5	368
+Brownsville-Harlingen, TX 
+5.7	371
+Longview, WA 
+5.8	372
+Madera, CA 
+6.0	373
+Wenatchee, WA 
+6.1	374
+Fresno, CA 
+6.2	375
+Kennewick-Richland, WA 
+6.2	375
+Beaumont-Port Arthur, TX 
+6.3	377
+Yuba City, CA 
+6.3	377
+Grants Pass, OR 
+6.5	379
+Bakersfield, CA 
+6.7	380
+Hanford-Corcoran, CA 
+6.8	381
+McAllen-Edinburg-Mission, TX 
+6.8	381
+Salinas, CA 
+6.9	383
+Merced, CA 
+7.4	384
+Ocean City, NJ 
+7.8	385
+Visalia-Porterville, CA 
+8.2	386
+Yakima, WA 
+8.8	387
+Yuma, AZ 
+13.7	388
+El Centro, CA 
+14.8	389

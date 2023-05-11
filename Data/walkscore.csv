@@ -1,0 +1,109 @@
+City,State,WalkScore,BikeScore
+San Francisco,CA,88.7,72.3
+New York,NY,88,69.3
+Jersey City,NJ,86.6,63.9
+Boston,MA,82.8,69.4
+Chicago,IL,77.2,72.2
+Washington,DC,76.7,69.5
+Miami,FL,76.6,64
+Newark,NJ,75.9,51.1
+Oakland,CA,75.3,65.5
+Philadelphia,PA,74.8,66.7
+Seattle,WA,74.4,71.1
+Long Beach,CA,73.3,70.1
+Minneapolis,MN,71.4,83.5
+Arlington,VA,71.2,72.3
+Los Angeles,CA,68.6,58.7
+Hialeah,FL,67.9,50.6
+Portland,OR,67.3,82.7
+Santa Ana,CA,67.1,62.2
+Buffalo,NY,66.6,62.8
+Urban Honolulu,HI,65.7,51
+St. Louis,MO,65.7,57.7
+Baltimore,MD,64.3,53.4
+Pittsburgh,PA,62.4,54.9
+Milwaukee,WI,61.5,57.6
+Denver,CO,61.2,71.8
+Rochester,NY,60.7,59.9
+St. Paul,MN,60.4,64
+New Orleans,LA,58,65.7
+Cleveland,OH,57.1,52.3
+Anaheim,CA,55.7,52.3
+San Diego,CA,53.3,43
+Detroit,MI,51.1,52.1
+Richmond,VA,50.9,50.8
+San Jose,CA,50.5,61.5
+Paradise,NV,50.1,50.1
+Fremont,CA,49.9,54.4
+Madison,WI,49.7,65.5
+Tampa,FL,49.5,55.2
+Spokane,WA,49.2,52.1
+Cincinnati,OH,49.1,35.6
+Sacramento,CA,49,66.9
+Omaha,NE,48.2,41.7
+Atlanta,GA,47.7,41.7
+Houston,TX,47.5,48.6
+Fresno,CA,46.6,58.1
+Toledo,OH,46.4,45.6
+Dallas,TX,46,49.3
+Norfolk,VA,45.8,46.9
+Chula Vista,CA,45.6,41.2
+San Bernardino,CA,45,43.6
+Des Moines,IA,45,39.4
+Irving,TX,44.8,42
+Lincoln,NE,44.1,58.5
+Stockton,CA,43.7,52.4
+Tucson,AZ,43.2,66.3
+Irvine,CA,43.2,69.5
+St. Petersburg,FL,43,58.5
+Riverside,CA,42.7,48.9
+Albuquerque,NM,42.6,60.9
+Aurora,CO,42.5,53.3
+Las Vegas,NV,42,46.5
+Austin,TX,41.7,54
+Phoenix,AZ,41.4,55.9
+Columbus,OH,41.2,47.7
+Orlando,FL,41.1,56.8
+Plano,TX,40.5,52
+El Paso,TX,40.4,42
+Corpus Christi,TX,40.3,42.1
+Glendale,AZ,40.2,56.5
+Reno,NV,40.2,52
+Garland,TX,40.2,40.6
+Baton Rouge,LA,39.1,44.3
+Tulsa,OK,39,47.2
+Lubbock,TX,39,42.5
+Boise City,ID,38.5,62.3
+Arlington,TX,38.1,39.5
+Mesa,AZ,37.9,59.6
+Bakersfield,CA,37.3,43.7
+San Antonio,TX,36.9,44.5
+Laredo,TX,36.8,39.6
+Colorado Springs,CO,36.1,44.7
+Chandler,AZ,35.4,55.4
+Kansas City,MO,35.3,35
+Memphis,TN,35,41.2
+Fort Worth,TX,34.9,38.6
+Wichita,KS,34.8,43.9
+Louisville/Jefferson County,KY,34.3,43.3
+Lexington-Fayette,KY,34.3,45.7
+Oklahoma City,OK,34.1,40.2
+North Las Vegas,NV,33.7,48.5
+Birmingham,AL,33.2,30.7
+Virginia Beach,VA,33.1,41.7
+Scottsdale,AZ,31.9,56.4
+Fort Wayne,IN,31.7,41
+Raleigh,NC,31.3,39.3
+Indianapolis,IN,31,42.8
+Anchorage,AK,30.9,51.8
+Durham,NC,30.3,37.6
+Henderson,NV,30,43.5
+Greensboro,NC,29.4,32.2
+Gilbert,AZ,29,52.6
+Nashville-Davidson,TN,28.8,29.7
+Charlotte,NC,26.4,31.3
+Montgomery,AL,25.8,32.9
+Jacksonville,FL,25.6,40.5
+Winston-Salem,NC,22.5,29.2
+Fayetteville,NC,21.4,29.7
+Chesapeake,VA,21.3,34.7

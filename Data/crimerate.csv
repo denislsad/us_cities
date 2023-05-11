@@ -1,0 +1,328 @@
+City,State,ViolentCrime
+Abilene,TX,317.30
+Akron,OH,371.70
+Albany,GA,717.60
+Albany,OR,136.60
+Albany,NY,257.50
+Albuquerque,NM,1043.40
+Alexandria,LA,849.20
+Altoona,PA,333.40
+Amarillo,TX,595.40
+Ames,IA,199.30
+Anchorage,AK,1194.60
+Ann Arbor,MI,355.50
+Appleton,WI,164.20
+Asheville,NC,316.10
+Atlantic City,NJ,255.40
+Augusta,GA,361.10
+Austin,TX,286.90
+Bakersfield,CA,621.10
+Baltimore,MD,698.70
+Bangor,ME,44.30
+Barnstable Town,MA,326.80
+Baton Rouge,LA,554.00
+Battle Creek,MI,624.00
+Bay City,MI,383.70
+Beaumont,TX,541.20
+Bellingham,WA,220.10
+Bend,OR,165.40
+Billings,MT,
+Binghamton,NY,285.40
+Bismarck,ND,305.70
+Blacksburg,VA,192.30
+Bloomington,IL,353.80
+Boise City,ID,250.90
+Boston,MA,277.70
+Boston,MA,396.30
+Cambridge,MA,210.50
+Rockingham County,NH,98.30
+Boulder,CO,272.30
+Bowling Green,KY,153.50
+Bremerton,WA,261.40
+Bridgeport,CT,174.20
+Brownsville,TX,375.10
+Buffalo,NY,354.30
+Burlington,NC,407.60
+Burlington,VT,200.50
+California,MD,204.40
+Canton,OH,338.60
+Cape Coral,FL,257.80
+Cape Girardeau,MO,384.60
+Carson City,NV,347.80
+Casper,WY,285.60
+Cedar Rapids,IA,188.50
+Champaign,IL,485.40
+Charleston,SC,398.00
+Charlottesville,VA,175.70
+Chattanooga,TN,525.60
+Chico,CA,443.80
+Cincinnati,OH,237.40
+Clarksville,TN,387.50
+Cleveland,TN,559.80
+Cleveland,OH,403.30
+Coeur d'Alene,ID,219.00
+College Station,TX,262.40
+Colorado Springs,CO,465.70
+Columbia,MO,271.80
+Columbia,SC,583.40
+Columbus,IN,145.80
+Columbus,OH,286.50
+Corpus Christi,TX,736.90
+Crestview,FL,313.20
+Cumberland,MD,274.80
+Danville,IL,935.70
+Davenport,IA,366.40
+Dayton,OH,328.40
+Decatur,IL,419.30
+Deltona,FL,319.30
+Detroit,MI,516.90
+Detroit,MI,984.30
+Warren,MI,201.10
+Dover,DE,427.40
+Dubuque,IA,134.40
+Duluth,MN,209.10
+Durham,NC,439.10
+East Stroudsburg,PA,236.40
+Eau Claire,WI,214.30
+El Centro,CA,339.40
+Elizabethtown,KY,99.80
+Elmira,NY,213.90
+El Paso,TX,333.20
+Enid,OK,370.20
+Erie,PA,299.00
+Eugene,OR,
+Evansville,IN,327.20
+Fairbanks,AK,794.50
+Fargo,ND,296.70
+Flagstaff,AZ,461.10
+Flint,MI,579.70
+Florence,SC,823.40
+Fond du Lac,WI,176.50
+Fort Collins,CO,234.10
+Fort Smith,AR,585.70
+Fort Wayne,IN,305.00
+Gainesville,FL,692.10
+Glens Falls,NY,127.10
+Goldsboro,NC,414.70
+Grand Forks,ND,250.60
+Grand Island,NE,375.70
+Grand Junction,CO,283.50
+Grand Rapids,MI,321.50
+Grants Pass,OR,238.70
+Great Falls,MT,
+Greeley,CO,215.90
+Green Bay,WI,225.90
+Greensboro,NC,530.20
+Greenville,NC,362.50
+Gulfport,MS,221.30
+Hanford,CA,504.80
+Harrisonburg,VA,126.70
+Hartford,CT,199.00
+Hilton Head Island,SC,397.50
+Homosassa Springs,FL,252.50
+Hot Springs,AR,524.00
+Houma,LA,374.50
+Huntington,WV,265.10
+Idaho Falls,ID,204.50
+Iowa City,IA,276.70
+Ithaca,NY,124.10
+Jackson,MI,514.30
+Jackson,TN,613.60
+Jacksonville,FL,474.70
+Janesville,WI,232.70
+Jefferson City,MO,220.40
+Johnson City,TN,328.60
+Jonesboro,AR,556.00
+Joplin,MO,331.10
+Kahului,HI,268.10
+Kalamazoo,MI,572.50
+Kankakee,IL,388.60
+Kennewick,WA,219.50
+Killeen,TX,264.40
+Kingsport,TN,300.80
+Kingston,NY,150.20
+Knoxville,TN,353.70
+Kokomo,IN,555.30
+La Crosse,WI,123.40
+Lafayette,LA,466.50
+Lafayette,IN,223.00
+Lake Charles,LA,547.70
+Lake Havasu City,AZ,230.00
+Lakeland,FL,277.50
+Lansing,MI,429.90
+Laredo,TX,321.90
+Las Cruces,NM,556.90
+Las Vegas,NV,525.70
+Lawton,OK,716.40
+Lebanon,PA,166.80
+Lewiston,ID,138.90
+Lewiston,ME,172.20
+Lexington,KY,230.60
+Lima,OH,315.60
+Lincoln,NE,346.80
+Little Rock,AR,782.30
+Logan,UT,128.40
+Longview,TX,324.10
+Longview,WA,194.60
+Los Angeles,CA,477.50
+Anaheim,CA,213.70
+Los Angeles,CA,560.90
+Louisville/Jefferson County,KY,436.80
+Lubbock,TX,838.50
+Lynchburg,VA,230.60
+Macon,GA,454.60
+Madera,CA,528.00
+Madison,WI,217.80
+Manchester,NH,229.80
+Manhattan,KS,430.90
+Mankato,MN,178.30
+Mansfield,OH,229.00
+McAllen,TX,268.90
+Memphis,TN,1120.50
+Merced,CA,553.20
+Miami,FL,422.00
+Fort Lauderdale,FL,373.40
+Miami,FL,480.70
+West Palm Beach,FL,377.00
+Midland,MI,142.30
+Milwaukee,WI,577.90
+Minneapolis,MN,272.50
+Missoula,MT,349.30
+Modesto,CA,529.10
+Monroe,LA,812.50
+Morgantown,WV,204.40
+Morristown,TN,387.60
+Mount Vernon,WA,155.50
+Muskegon,MI,453.40
+Myrtle Beach,SC,357.50
+Napa,CA,543.40
+Naples,FL,233.70
+Nashville,TN,570.50
+New Bern,NC,284.30
+New Haven,CT,272.80
+New Orleans,LA,551.50
+Niles,MI,550.70
+North Port,FL,328.40
+Norwich,CT,193.80
+Ocala,FL,430.90
+Ocean City,NJ,175.80
+Odessa,TX,881.80
+Ogden,UT,170.70
+Oklahoma City,OK,461.00
+Olympia,WA,246.70
+Omaha,NE,413.10
+Orlando,FL,429.90
+Oshkosh,WI,197.30
+Owensboro,KY,133.40
+Oxnard,CA,216.00
+Palm Bay,FL,371.00
+Panama City,FL,443.90
+Pensacola,FL,409.70
+Peoria,IL,451.90
+Phoenix,AZ,426.50
+Pine Bluff,AR,895.40
+Pittsfield,MA,380.70
+Pocatello,ID,299.40
+Portland,ME,114.60
+Portland,OR,302.60
+Port St. Lucie,FL,238.80
+Poughkeepsie,NY,191.20
+Prescott Valley,AZ,277.10
+Providence,RI,282.60
+Provo,UT,90.20
+Pueblo,CO,
+Punta Gorda,FL,196.20
+Racine,WI,318.10
+Raleigh,NC,172.60
+Rapid City,SD,532.20
+Reno,NV,469.00
+Richmond,VA,227.70
+Riverside,CA,425.90
+Roanoke,VA,238.90
+Rochester,MN,152.50
+Rochester,NY,248.70
+Rockford,IL,634.50
+Sacramento,CA,354.10
+Saginaw,MI,623.60
+Salem,OR,270.10
+Salinas,CA,329.90
+Salisbury,MD,331.50
+Salt Lake City,UT,366.70
+San Angelo,TX,328.30
+San Antonio,TX,515.90
+San Diego,CA,341.20
+San Francisco,CA,470.80
+Oakland,CA,490.90
+San Francisco,CA,479.00
+San Rafael,CA,199.70
+San Jose,CA,325.00
+San Luis Obispo,CA,222.30
+Santa Cruz,CA,404.60
+Santa Rosa,CA,405.10
+Scranton–Wilkes,PA,401.00
+Sebastian,FL,221.60
+Sebring,FL,265.30
+Sheboygan,WI,179.50
+Sherman,TX,253.60
+Shreveport,LA,563.20
+Sierra Vista,AZ,217.90
+Sioux City,IA,315.60
+Sioux Falls,SD,388.10
+Spartanburg,SC,503.00
+Spokane,WA,381.00
+Springfield,IL,584.00
+Springfield,MA,471.70
+Springfield,MO,632.70
+Springfield,OH,246.50
+State College,PA,122.20
+Staunton,VA,170.90
+St. Cloud,MN,184.80
+St. George,UT,169.90
+St. Joseph,MO,404.80
+Stockton,CA,788.50
+Sumter,SC,718.60
+Syracuse,NY,280.00
+Tallahassee,FL,527.50
+Tampa,FL,292.10
+Texarkana,TX,451.90
+The Villages,FL,187.30
+Toledo,OH,471.70
+Topeka,KS,492.80
+Trenton,NJ,346.60
+Tucson,AZ,447.40
+Tulsa,OK,529.60
+Twin Falls,ID,286.80
+Tyler,TX,334.10
+Urban Honolulu,HI,270.60
+Utica,NY,271.40
+Vallejo,CA,472.90
+Victoria,TX,464.40
+Vineland,NJ,421.80
+Virginia Beach,VA,349.50
+Visalia,CA,364.00
+Waco,TX,427.80
+Walla Walla,WA,237.90
+Warner Robins,GA,414.70
+Washington,DC,
+Frederick,MD,164.90
+Washington,DC,
+Watertown,NY,219.80
+Wausau,WI,220.90
+Weirton,WV,154.50
+Wenatchee,WA,106.10
+Wichita,KS,781.20
+Wichita Falls,TX,318.70
+Wilmington,NC,380.00
+Winchester,VA,160.80
+Worcester,MA,310.40
+Yakima,WA,279.60
+Yuba City,CA,369.30
+Yuma,AZ,277.80
+Aguadilla,PR,148.60
+Arecibo,PR,163.80
+Guayama,PR,209.80
+Mayaguez,PR,112.70
+Ponce,PR,165.40
+San German,PR,83.20
+San Juan,PR,227.30
+Yauco,PR,172.40

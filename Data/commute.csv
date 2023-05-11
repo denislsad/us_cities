@@ -1,0 +1,353 @@
+City,State,CommuteTime
+Abilene,TX,19.1
+Aguadilla,PR,23.9
+Akron,OH,22.9
+Albany,NY,23.4
+Albuquerque,NM,23.7
+Alexandria,LA,26
+Allentown,PA,27.9
+Altoona,PA,19.1
+Amarillo,TX,19.1
+Ames,IA,17.6
+Anchorage,AK,20.8
+Ann Arbor,MI,24.2
+Appleton,WI,19.5
+Asheville,NC,21.6
+Athens,GA,22.7
+Atlanta,GA,32.1
+Atlantic City,NJ,24.3
+Auburn,AL,23.8
+Auburn,NY,24.9
+Augusta,GA,24
+Augusta,ME,22.2
+Austin,TX,27.1
+Bakersfield,CA,22.6
+Baltimore,MD,31
+Bangor,ME,22.2
+Barnstable Town,MA,22.7
+Baton Rouge,LA,25.6
+Beaumont,TX,22.6
+Bellingham,WA,22.5
+Billings,MT,18.3
+Binghamton,NY,19.2
+Birmingham,AL,25.8
+Bismarck,ND,19.3
+Blacksburg,VA,20.5
+Bloomington,IL,18.4
+Bloomington,IN,19.7
+Bloomsburg,PA,21
+Boise City,ID,22.4
+Boston,MA,31.2
+Boulder,CO,22.1
+Bowling Green,KY,22.2
+Bozeman,MT,17
+Brainerd,MN,21.6
+Bremerton,WA,30.8
+Bridgeport,CT,30.2
+Brownsville,TX,20.8
+Buffalo,NY,21.7
+Burlington,VT,22.5
+Burlington,NC,23.7
+California,MD,34.5
+Canton,OH,22.5
+Cape Coral,FL,27.1
+Carbondale,IL,19.9
+Cedar Rapids,IA,19.7
+Champaign,IL,18.6
+Charleston,SC,25.9
+Charleston,WV,21.9
+Charlotte,NC,26.5
+Charlottesville,VA,24.3
+Chattanooga,TN,24.4
+Chicago,IL,31.8
+Chico,CA,20.5
+Cincinnati,OH,24.7
+Claremont,NH,24.1
+Clarksville,TN,24
+Cleveland,OH,24.6
+Coeur d'Alene,ID,22.3
+College Station,TX,18.1
+Colorado Springs,CO,22.8
+Columbia,MO,17.3
+Columbia,SC,24.3
+Columbus,GA,22.2
+Columbus,OH,24
+Concord,NH,27.2
+Corning,NY,21.7
+Corpus Christi,TX,19.6
+Corvallis,OR,19
+Crestview,FL,24.1
+Cumberland,MD,24.4
+Dallas,TX,28.6
+Dalton,GA,23.6
+Davenport,IA,19.6
+Dayton,OH,21.8
+Deltona,FL,26.6
+Denver,CO,27.3
+Des Moines,IA,20
+Detroit,MI,27.1
+Dover,DE,27
+Dubuque,IA,16
+Duluth,MN,20.2
+Dunn,NC,30.3
+Durham,NC,24.6
+East Stroudsburg,PA,39.4
+Eau Claire,WI,19.4
+El Centro,CA,21.3
+El Paso,TX,23.7
+Elizabethtown,KY,23.6
+Elkhart,IN,19.4
+Elmira,NY,20.2
+Erie,PA,19.9
+Eugene,OR,20.6
+Eureka,CA,18.1
+Evansville,IN,21.8
+Fairbanks,AK,17.5
+Fargo,ND,16.3
+Farmington,NM,25.5
+Fayetteville,AR,20.6
+Fayetteville,NC,22.6
+Flagstaff,AZ,16.6
+Flint,MI,26.5
+Florence,SC,22.5
+Fort Collins,CO,22.9
+Fort Smith,AR,21.8
+Fort Wayne,IN,21.8
+Fresno,CA,22.8
+Gainesville,FL,23.2
+Gallup,NM,22.2
+Gettysburg,PA,28.9
+Glens Falls,NY,25.3
+Glenwood Springs,CO,30.9
+Grand Forks,ND,16.4
+Grand Junction,CO,18.1
+Grand Rapids,MI,21.2
+Greeley,CO,27.5
+Green Bay,WI,20.7
+Greenfield Town,MA,25.3
+Greensboro,NC,22.1
+Greenville,SC,23.7
+Greenville,NC,20.7
+Gulfport,MS,23
+Hagerstown,MD,30.7
+Harrisburg,PA,22.8
+Harrisonburg,VA,19.8
+Hartford,CT,24.5
+Hattiesburg,MS,26.8
+Hickory,NC,22.6
+Hilo,HI,26
+Hilton Head Island,SC,24.6
+Holland,MI,22.7
+Houma,LA,24.2
+Houston,TX,30
+Huntington,WV,23.3
+Idaho Falls,ID,19.5
+Indiana,PA,24.3
+Indianapolis,IN,24.7
+Iowa City,IA,19.3
+Ithaca,NY,17
+Jackson,MI,24.4
+Jackson,MS,25.1
+Jacksonville,FL,27.5
+Jacksonville,NC,20.1
+Jamestown,NY,18.6
+Janesville,WI,23.5
+Jefferson City,MO,20.9
+Johnson City,TN,21.8
+Johnstown,PA,24.7
+Joplin,MO,17.7
+Kahului,HI,21.1
+Kalamazoo,MI,20.5
+Kankakee,IL,24.5
+Kansas City,MO,23.2
+Kennewick,WA,22.3
+Killeen,TX,20.2
+Kingsport,TN,23
+Kingston,NY,28.8
+Knoxville,TN,23.7
+La Crosse,WI,19
+Lafayette,IN,19.3
+Lafayette,LA,24.6
+Lake Havasu City,AZ,21.8
+Lakeland,FL,25.7
+Lancaster,PA,24
+Lansing,MI,21.1
+Laredo,TX,21.5
+Las Cruces,NM,20.4
+Las Vegas,NV,24.7
+Lawrence,KS,20.6
+Lawton,OK,16
+Lebanon,PA,23.5
+Lexington,KY,21.5
+Lincoln,NE,19.4
+Little Rock,AR,22.5
+Logan,UT,17.1
+Los Angeles,CA,30.7
+Louisville/Jefferson County,KY,23.9
+Lubbock,TX,17.3
+Lynchburg,VA,23.4
+Macon,GA,23.5
+Madera,CA,25.4
+Madison,WI,21.4
+Manchester,NH,26.9
+Manhattan,KS,15.7
+Manitowoc,WI,18.8
+Mankato,MN,17.3
+Marquette,MI,17.3
+McAllen,TX,21.6
+Meadville,PA,20.7
+Medford,OR,18
+Memphis,TN,24.4
+Merced,CA,27.8
+Miami,FL,29.6
+Midland,TX,18.1
+Milwaukee,WI,22.7
+Minneapolis,MN,25.3
+Missoula,MT,18.7
+Mobile,AL,24.8
+Modesto,CA,28.8
+Monroe,LA,20
+Montgomery,AL,23.5
+Morgantown,WV,22.8
+Moses Lake,WA,17.5
+Mount Pleasant,MI,17.9
+Mount Vernon,WA,26.3
+Muncie,IN,20.1
+Muskegon,MI,21.3
+Myrtle Beach,SC,21.8
+Napa,CA,23.7
+Naples,FL,24.5
+Nashville,TN,27.6
+New Bern,NC,24.6
+New Castle,PA,20.9
+New Haven,CT,24.8
+New Orleans,LA,26
+New York,NY,36.7
+Niles,MI,19.5
+North Port,FL,25.9
+Norwich,CT,24.8
+Oak Harbor,WA,30.4
+Ocala,FL,25
+Ogden,UT,22.7
+Ogdensburg,NY,20.8
+Oklahoma City,OK,22.5
+Olean,NY,20.3
+Olympia,WA,24.6
+Omaha,NE,20.5
+Orlando,FL,28.7
+Oshkosh,WI,19
+Ottawa,IL,23.4
+Owensboro,KY,20.3
+Oxnard,CA,25.7
+Palm Bay,FL,24.9
+Panama City,FL,22.5
+Pensacola,FL,24.5
+Peoria,IL,20.3
+Philadelphia,PA,29.8
+Phoenix,AZ,26.4
+Pittsburgh,PA,26.7
+Pittsfield,MA,21
+Pocatello,ID,17.1
+Ponce,PR,25.3
+Port St. Lucie,FL,27.4
+Portland,ME,25.4
+Portland,OR,27.5
+Pottsville,PA,26.1
+Prescott,AZ,22.6
+Providence,RI,26
+Provo,UT,21.2
+Pueblo,CO,21.4
+Punta Gorda,FL,24.2
+Racine,WI,24.7
+Raleigh,NC,25.9
+Reading,PA,25.4
+Reno,NV,21.3
+Richmond,VA,25.6
+Riverside,CA,32.9
+Roanoke,VA,25.9
+Rochester,MN,20.2
+Rochester,NY,21.6
+Rockford,IL,23.2
+Rocky Mount,NC,22.7
+Sacramento,CA,27.1
+Saginaw,MI,22.4
+Salem,OH,24.9
+Salem,OR,24.9
+Salinas,CA,23
+Salisbury,MD,24.2
+Salt Lake City,UT,22.5
+San Antonio,TX,26.7
+San Diego,CA,26
+San Francisco,CA,33.6
+San Jose,CA,29
+San Juan,PR,30.7
+San Luis Obispo,CA,23.1
+Santa Cruz,CA,26.8
+Santa Fe,NM,22.1
+Santa Maria,CA,19.6
+Santa Rosa,CA,25.1
+Savannah,GA,24.3
+Scranton,PA,22.3
+Seattle,WA,30.8
+Shawnee,OK,24
+Sheboygan,WI,18.5
+Shreveport,LA,21.1
+Sioux City,IA,18.2
+Sioux Falls,SD,18.2
+South Bend,IN,22.6
+Spartanburg,SC,23.5
+Spokane,WA,22.6
+Springfield,IL,20.2
+Springfield,MA,22.9
+Springfield,MO,22.3
+Springfield,OH,21.4
+St. Cloud,MN,20.3
+St. Louis,MO,26
+State College,PA,19.7
+Stockton,CA,33.3
+Sumter,SC,22.4
+Sunbury,PA,23.1
+Syracuse,NY,21.3
+Tallahassee,FL,22.6
+Tampa,FL,27.2
+Terre Haute,IN,22.6
+Toledo,OH,21.1
+Topeka,KS,20.5
+Torrington,CT,27.6
+Traverse City,MI,22.5
+Trenton,NJ,28.7
+Tucson,AZ,24.4
+Tulsa,OK,21.8
+Tupelo,MS,21.6
+Tyler,TX,23.4
+Urban Honolulu,HI,29
+Utica,NY,20.3
+Valdosta,GA,19.7
+Vallejo,CA,32.5
+Vineland,NJ,24.5
+Virginia Beach,VA,24
+Visalia,CA,22.4
+Waco,TX,20.1
+Walla Walla,WA,17.9
+Warner Robins,GA,20.8
+Warsaw,IN,19.4
+Washington,DC,34.8
+Watertown,WI,25.3
+Wausau,WI,20
+Weirton,WV,24
+Wenatchee,WA,18.2
+Wheeling,WV,22.8
+Whitewater,WI,23.3
+Wichita Falls,TX,16.4
+Wichita,KS,20.2
+Williamsport,PA,21.4
+Wilmington,NC,21.6
+Winston,NC,23.4
+Wisconsin Rapids,WI,19.8
+Wooster,OH,19.5
+Worcester,MA,28.8
+Yakima,WA,18.7
+York,PA,27.2
+Youngstown,OH,21.8
+Yuba City,CA,29.1
+Yuma,AZ,20
